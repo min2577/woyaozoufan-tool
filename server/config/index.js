@@ -3,7 +3,7 @@
  * 统一管理应用配置、环境变量和运行时设置
  */
 
-require('dotenv').config();
+require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 
 const config = {
   // 服务器配置

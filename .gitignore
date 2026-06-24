@@ -1,9 +1,11 @@
 # Node / build artifacts
 node_modules/
-dist/
+project/dist/
 build/
-server/public/*
-!server/public/.gitkeep
+server/public/
+
+# Allow our deployed public/ folder (built frontend)
+!public/
 .next/
 .turbo/
 *.log

@@ -480,19 +480,19 @@ app.use('/api/ai-stats', aiStatsRoutes);
 app.use('/api/admin', adminRoutes);
 
 // 静态文件服务
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '..', 'public')));
 
 // 添加实时事件流端点
 app.get('/api/event-stream', eventStreamMiddleware);
 
 // 添加日志页面路由
 app.get('/logs', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'logs.html'));
+  res.sendFile(path.join(__dirname, '..', 'public', 'logs.html'));
 });
 
 // 添加调试工具页面路由
 app.get('/debug', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'debug.html'));
+  res.sendFile(path.join(__dirname, '..', 'public', 'debug.html'));
 });
 
 // 加载菜谱路由
@@ -2108,7 +2108,7 @@ app.post('/detailJson', async (req, res) => {
 // ==================== 启动服务器 ====================
 // SPA fallback: serve index.html for any non-API route
 app.get(/^(?!\/api\/|\/logs$|\/debug\/).*/, (req, res) => {
-  const indexPath = path.join(__dirname, 'public', 'index.html');
+  const indexPath = path.join(__dirname, '..', 'public', 'index.html');
   if (fs.existsSync(indexPath)) {
     res.sendFile(indexPath);
   } else {
