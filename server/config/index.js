@@ -41,7 +41,7 @@ const config = {
 
   // CORS 配置
   cors: {
-    origin: process.env.CORS_ORIGIN?.split(',') || ['*'],
+    origin: process.env.CORS_ORIGIN || '*',
     methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'],
     credentials: true,
     allowedHeaders: ['Content-Type', 'Authorization', 'X-Request-ID'],
