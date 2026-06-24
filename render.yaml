@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: woyaozoufan
+    runtime: node
+    plan: free
+    region: oregon
+    healthCheckPath: /health
+    buildCommand: |
+      cd project && npm install --no-audit --no-fund && npm run build && cd ..
+      rm -rf server/public
+      mkdir -p server/public
+      cp -r project/dist/* server/public/
+      cd server && npm install --no-audit --no-fund
+    startCommand: cd server && node index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: VITE_API_BASE_URL
+        value: ''
+      - key: CORS_ORIGIN
+        value: '*'
+      - key: VOLCENGINE_API_KEY
+        sync: false
+      - key: VOLCENGINE_MODEL_ID
+        value: doubao-seed-2-0-mini-260215
+      - key: QWEN_API_KEY
+        sync: false
+      - key: QWEN_MODEL_ID
+        value: qwen-plus
+      - key: AI_TIMEOUT
+        value: "60000"
+      - key: AI_MAX_RETRIES
+        value: "3"
+      - key: AI_CACHE_ENABLED
+        value: "true"
+      - key: DATABASE_PATH
+        value: ./data/recipes.db
+      - key: LOG_LEVEL
+        value: info

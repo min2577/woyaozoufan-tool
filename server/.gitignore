@@ -1,0 +1,39 @@
+# 依赖
+node_modules/
+npm-debug.log
+
+# 环境变量
+.env
+
+# 数据库 - 我们要提交 recipes.db 和 recipes.json（部署需要）
+# 仅排除会变的运行时文件
+data/*.db-shm
+data/*.db-wal
+data/inventory_report.json
+data/recipe_repair_reports/
+data/旧东西/
+data/migrate_to_sqlite_test.db
+data/woyaozoufan.db
+
+# 日志
+logs/
+*.log
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 构建输出
+dist/
+build/

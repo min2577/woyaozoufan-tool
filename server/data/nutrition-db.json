@@ -1,0 +1,7406 @@
+{
+  "母鸡": {
+    "per_100g": {
+      "calories": 256,
+      "protein": 20.3,
+      "fat": 16.8,
+      "carbs": 5.8,
+      "sodium": 62.2,
+      "fiber": 0,
+      "potassium": 275,
+      "calcium": 2,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "肉鸡": {
+    "per_100g": {
+      "calories": 389,
+      "protein": 16.7,
+      "fat": 35.4,
+      "carbs": 0.9,
+      "sodium": 47.8,
+      "fiber": 0,
+      "potassium": 123,
+      "calcium": 37,
+      "iron": 1.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "华青鸡": {
+    "per_100g": {
+      "calories": 158,
+      "protein": 19.6,
+      "fat": 8.8,
+      "carbs": 0,
+      "sodium": 62.8,
+      "fiber": 0,
+      "potassium": 184,
+      "calcium": 1,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "沙鸡": {
+    "per_100g": {
+      "calories": 147,
+      "protein": 20,
+      "fat": 6.7,
+      "carbs": 1.6,
+      "sodium": 81.9,
+      "fiber": 0,
+      "potassium": 249,
+      "calcium": 0,
+      "iron": 24.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡爪": {
+    "per_100g": {
+      "calories": 254,
+      "protein": 23.9,
+      "fat": 16.4,
+      "carbs": 2.7,
+      "sodium": 169,
+      "fiber": 0,
+      "potassium": 108,
+      "calcium": 36,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡胸脯肉": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 24.6,
+      "fat": 1.9,
+      "carbs": 0.6,
+      "sodium": 44.8,
+      "fiber": 0,
+      "potassium": 333,
+      "calcium": 1,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡腿": {
+    "per_100g": {
+      "calories": 146,
+      "protein": 20.2,
+      "fat": 7.2,
+      "carbs": 0,
+      "sodium": 73.6,
+      "fiber": 0,
+      "potassium": 221,
+      "calcium": 0,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡翅": {
+    "per_100g": {
+      "calories": 202,
+      "protein": 19,
+      "fat": 11.5,
+      "carbs": 5.5,
+      "sodium": 50.8,
+      "fiber": 0,
+      "potassium": 205,
+      "calcium": 8,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡���": {
+    "per_100g": {
+      "calories": 206,
+      "protein": 12.2,
+      "fat": 9.1,
+      "carbs": 18.8,
+      "sodium": 329.8,
+      "fiber": 0,
+      "potassium": 230,
+      "calcium": 6,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "野山鸡": {
+    "per_100g": {
+      "calories": 126,
+      "protein": 20.4,
+      "fat": 2,
+      "carbs": 6.6,
+      "sodium": 37.8,
+      "fiber": 0,
+      "potassium": 155,
+      "calcium": 92,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡肝": {
+    "per_100g": {
+      "calories": 121,
+      "protein": 16.6,
+      "fat": 4.8,
+      "carbs": 2.8,
+      "sodium": 92,
+      "fiber": 0,
+      "potassium": 222,
+      "calcium": 7,
+      "iron": 12,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡心": {
+    "per_100g": {
+      "calories": 172,
+      "protein": 15.9,
+      "fat": 11.8,
+      "carbs": 0.6,
+      "sodium": 108.4,
+      "fiber": 0,
+      "potassium": 220,
+      "calcium": 54,
+      "iron": 4.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡血": {
+    "per_100g": {
+      "calories": 49,
+      "protein": 7.8,
+      "fat": 0.2,
+      "carbs": 4.1,
+      "sodium": 208,
+      "fiber": 0,
+      "potassium": 136,
+      "calcium": 10,
+      "iron": 25,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡盹［鸡胗］": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 19.2,
+      "fat": 2.8,
+      "carbs": 4,
+      "sodium": 74.8,
+      "fiber": 0,
+      "potassium": 272,
+      "calcium": 7,
+      "iron": 4.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "扒鸡": {
+    "per_100g": {
+      "calories": 217,
+      "protein": 29.6,
+      "fat": 11,
+      "carbs": 0,
+      "sodium": 1000.7,
+      "fiber": 0,
+      "potassium": 149,
+      "calcium": 31,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "炸鸡块": {
+    "per_100g": {
+      "calories": 279,
+      "protein": 20.3,
+      "fat": 17.3,
+      "carbs": 10.5,
+      "sodium": 755,
+      "fiber": 0,
+      "potassium": 232,
+      "calcium": 109,
+      "iron": 2.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "卤煮鸡": {
+    "per_100g": {
+      "calories": 212,
+      "protein": 29.4,
+      "fat": 7.9,
+      "carbs": 5.8,
+      "sodium": 221.7,
+      "fiber": 0,
+      "potassium": 40,
+      "calcium": 71,
+      "iron": 5.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "瓦罐鸡汤": {
+    "per_100g": {
+      "calories": 190,
+      "protein": 20.9,
+      "fat": 9.5,
+      "carbs": 5.2,
+      "sodium": 201.2,
+      "fiber": 0,
+      "potassium": 23,
+      "calcium": 16,
+      "iron": 1.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡肉松": {
+    "per_100g": {
+      "calories": 440,
+      "protein": 7.2,
+      "fat": 16.4,
+      "carbs": 0,
+      "sodium": 29,
+      "fiber": 0,
+      "potassium": 1687.8,
+      "calcium": 83,
+      "iron": 0.58,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "烤鸡": {
+    "per_100g": {
+      "calories": 265,
+      "protein": 28.1,
+      "fat": 16.9,
+      "carbs": 0,
+      "sodium": 11,
+      "fiber": 0,
+      "potassium": 560,
+      "calcium": 135,
+      "iron": 1.58,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "童子鸡": {
+    "per_100g": {
+      "calories": 226,
+      "protein": 15.8,
+      "fat": 18.1,
+      "carbs": 0,
+      "sodium": 7,
+      "fiber": 0,
+      "potassium": 910.1,
+      "calcium": 221,
+      "iron": 1.21,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "公麻鸭": {
+    "per_100g": {
+      "calories": 360,
+      "protein": 14.3,
+      "fat": 30.9,
+      "carbs": 6.1,
+      "sodium": 61.6,
+      "fiber": 0,
+      "potassium": 109,
+      "calcium": 4,
+      "iron": 3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "母麻鸭": {
+    "per_100g": {
+      "calories": 461,
+      "protein": 13,
+      "fat": 44.8,
+      "carbs": 1.4,
+      "sodium": 48.8,
+      "fiber": 0,
+      "potassium": 155,
+      "calcium": 9,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭胸脯肉": {
+    "per_100g": {
+      "calories": 90,
+      "protein": 15,
+      "fat": 1.5,
+      "carbs": 4,
+      "sodium": 60.2,
+      "fiber": 0,
+      "potassium": 126,
+      "calcium": 6,
+      "iron": 4.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭皮": {
+    "per_100g": {
+      "calories": 538,
+      "protein": 6.5,
+      "fat": 50.2,
+      "carbs": 15.1,
+      "sodium": 26.2,
+      "fiber": 0,
+      "potassium": 38,
+      "calcium": 6,
+      "iron": 3.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭翅": {
+    "per_100g": {
+      "calories": 146,
+      "protein": 16.5,
+      "fat": 6.1,
+      "carbs": 6.3,
+      "sodium": 53.6,
+      "fiber": 0,
+      "potassium": 100,
+      "calcium": 20,
+      "iron": 2.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭掌": {
+    "per_100g": {
+      "calories": 150,
+      "protein": 26.9,
+      "fat": 1.9,
+      "carbs": 6.2,
+      "sodium": 61.1,
+      "fiber": 0,
+      "potassium": 28,
+      "calcium": 24,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭肠": {
+    "per_100g": {
+      "calories": 129,
+      "protein": 14.2,
+      "fat": 7.8,
+      "carbs": 0.4,
+      "sodium": 32,
+      "fiber": 0,
+      "potassium": 136,
+      "calcium": 31,
+      "iron": 2.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭肝": {
+    "per_100g": {
+      "calories": 128,
+      "protein": 14.5,
+      "fat": 7.5,
+      "carbs": 0.5,
+      "sodium": 87.2,
+      "fiber": 0,
+      "potassium": 230,
+      "calcium": 18,
+      "iron": 23.1,
+      "vitaminC": 18
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭肝（母麻鸭)": {
+    "per_100g": {
+      "calories": 113,
+      "protein": 16.8,
+      "fat": 2.5,
+      "carbs": 5.9,
+      "sodium": 107.5,
+      "fiber": 0,
+      "potassium": 289,
+      "calcium": 1,
+      "iron": 50.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭舌": {
+    "per_100g": {
+      "calories": 245,
+      "protein": 16.6,
+      "fat": 19.7,
+      "carbs": 0.4,
+      "sodium": 81.5,
+      "fiber": 0,
+      "potassium": 44,
+      "calcium": 13,
+      "iron": 2.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭心": {
+    "per_100g": {
+      "calories": 143,
+      "protein": 12.8,
+      "fat": 8.9,
+      "carbs": 2.9,
+      "sodium": 86.2,
+      "fiber": 0,
+      "potassium": 233,
+      "calcium": 20,
+      "iron": 5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭血": {
+    "per_100g": {
+      "calories": 108,
+      "protein": 13.6,
+      "fat": 0.4,
+      "carbs": 12.4,
+      "sodium": 173.6,
+      "fiber": 0,
+      "potassium": 166,
+      "calcium": 5,
+      "iron": 30.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭胰": {
+    "per_100g": {
+      "calories": 117,
+      "protein": 21.7,
+      "fat": 2.9,
+      "carbs": 1,
+      "sodium": 55.7,
+      "fiber": 0,
+      "potassium": 84,
+      "calcium": 20,
+      "iron": 1.9,
+      "vitaminC": 9
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭盹": {
+    "per_100g": {
+      "calories": 92,
+      "protein": 17.9,
+      "fat": 1.3,
+      "carbs": 2.1,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 69.2,
+      "calcium": 134,
+      "iron": 2.77,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭胞(公麻鸭）": {
+    "per_100g": {
+      "calories": 112,
+      "protein": 19.8,
+      "fat": 1.2,
+      "carbs": 5.4,
+      "sodium": 19,
+      "fiber": 0,
+      "potassium": 70.1,
+      "calcium": 2,
+      "iron": 3.73,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭豉片": {
+    "per_100g": {
+      "calories": 603,
+      "protein": 18.3,
+      "fat": 56.1,
+      "carbs": 6.1,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 0,
+      "iron": 0.38,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "北京烤鸭": {
+    "per_100g": {
+      "calories": 436,
+      "protein": 16.6,
+      "fat": 38.4,
+      "carbs": 6,
+      "sodium": 13,
+      "fiber": 0,
+      "potassium": 83,
+      "calcium": 175,
+      "iron": 1.25,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "北京填鸭": {
+    "per_100g": {
+      "calories": 425,
+      "protein": 9.3,
+      "fat": 41.3,
+      "carbs": 3.9,
+      "sodium": 6,
+      "fiber": 0,
+      "potassium": 45.5,
+      "calcium": 149,
+      "iron": 1.31,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "红烧鸭": {
+    "per_100g": {
+      "calories": 338,
+      "protein": 15.3,
+      "fat": 30.5,
+      "carbs": 0.6,
+      "sodium": 17,
+      "fiber": 0,
+      "potassium": 628.3,
+      "calcium": 467,
+      "iron": 1.55,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酱鸭": {
+    "per_100g": {
+      "calories": 266,
+      "protein": 18.9,
+      "fat": 18.4,
+      "carbs": 6.3,
+      "sodium": 13,
+      "fiber": 0,
+      "potassium": 981.3,
+      "calcium": 140,
+      "iron": 2.69,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "盐水鸭": {
+    "per_100g": {
+      "calories": 313,
+      "protein": 16.6,
+      "fat": 26.1,
+      "carbs": 2.8,
+      "sodium": 14,
+      "fiber": 0,
+      "potassium": 1557.5,
+      "calcium": 112,
+      "iron": 2.04,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "烤鸭": {
+    "per_100g": {
+      "calories": 309,
+      "protein": 20.3,
+      "fat": 25.3,
+      "carbs": 0,
+      "sodium": 6,
+      "fiber": 0,
+      "potassium": 776.4,
+      "calcium": 102,
+      "iron": 2.76,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鹅肝": {
+    "per_100g": {
+      "calories": 129,
+      "protein": 15.2,
+      "fat": 3.4,
+      "carbs": 9.3,
+      "sodium": 70.2,
+      "fiber": 0,
+      "potassium": 336,
+      "calcium": 2,
+      "iron": 7.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鹅盹": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 19.6,
+      "fat": 1.9,
+      "carbs": 1.1,
+      "sodium": 58.2,
+      "fiber": 0,
+      "potassium": 410,
+      "calcium": 2,
+      "iron": 4.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鹅血": {
+    "per_100g": {
+      "calories": 74,
+      "protein": 18.6,
+      "fat": 0,
+      "carbs": 0,
+      "sodium": 80.5,
+      "fiber": 0,
+      "potassium": 163,
+      "calcium": 4,
+      "iron": 37.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "烧鹅": {
+    "per_100g": {
+      "calories": 289,
+      "protein": 19.7,
+      "fat": 21.5,
+      "carbs": 4.2,
+      "sodium": 240,
+      "fiber": 0,
+      "potassium": 22,
+      "calcium": 91,
+      "iron": 3.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "腊鹅": {
+    "per_100g": {
+      "calories": 410,
+      "protein": 24.6,
+      "fat": 21.5,
+      "carbs": 29.6,
+      "sodium": 2880,
+      "fiber": 0,
+      "potassium": 388,
+      "calcium": 36,
+      "iron": 7.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "白条鱼": {
+    "per_100g": {
+      "calories": 103,
+      "protein": 16.6,
+      "fat": 3.3,
+      "carbs": 1.6,
+      "sodium": 68,
+      "fiber": 0,
+      "potassium": 331,
+      "calcium": 58,
+      "iron": 1.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "草鱼": {
+    "per_100g": {
+      "calories": 113,
+      "protein": 16.6,
+      "fat": 5.2,
+      "carbs": 0,
+      "sodium": 46,
+      "fiber": 0,
+      "potassium": 312,
+      "calcium": 38,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "赤眼鳟": {
+    "per_100g": {
+      "calories": 109,
+      "protein": 18.1,
+      "fat": 4.1,
+      "carbs": 0,
+      "sodium": 87,
+      "fiber": 0,
+      "potassium": 291,
+      "calcium": 59,
+      "iron": 6.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼[猴鱼］": {
+    "per_100g": {
+      "calories": 114,
+      "protein": 17.5,
+      "fat": 4.3,
+      "carbs": 1.2,
+      "sodium": 158.4,
+      "fiber": 0,
+      "potassium": 194,
+      "calcium": 139,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "胡子[塘虱］": {
+    "per_100g": {
+      "calories": 146,
+      "protein": 15.4,
+      "fat": 8,
+      "carbs": 3.1,
+      "sodium": 45.5,
+      "fiber": 0,
+      "potassium": 78,
+      "calcium": 18,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄颡鱼「戈牙鱼、黄鳍鱼］": {
+    "per_100g": {
+      "calories": 124,
+      "protein": 17.8,
+      "fat": 2.7,
+      "carbs": 7.1,
+      "sodium": 250.4,
+      "fiber": 0,
+      "potassium": 202,
+      "calcium": 59,
+      "iron": 6.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄鳝[鳝鱼］": {
+    "per_100g": {
+      "calories": 89,
+      "protein": 18,
+      "fat": 1.4,
+      "carbs": 1.2,
+      "sodium": 70.2,
+      "fiber": 0,
+      "potassium": 263,
+      "calcium": 42,
+      "iron": 2.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄鳝丝": {
+    "per_100g": {
+      "calories": 69,
+      "protein": 15.4,
+      "fat": 0.8,
+      "carbs": 0,
+      "sodium": 131,
+      "fiber": 0,
+      "potassium": 278,
+      "calcium": 57,
+      "iron": 2.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "尖嘴白": {
+    "per_100g": {
+      "calories": 137,
+      "protein": 22.7,
+      "fat": 3.3,
+      "carbs": 4.1,
+      "sodium": 48.3,
+      "fiber": 0,
+      "potassium": 375,
+      "calcium": 27,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "口头鱼": {
+    "per_100g": {
+      "calories": 134,
+      "protein": 19.6,
+      "fat": 4.2,
+      "carbs": 4.5,
+      "sodium": 47.7,
+      "fiber": 0,
+      "potassium": 270,
+      "calcium": 103,
+      "iron": 2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲤鱼[鲤拐子］": {
+    "per_100g": {
+      "calories": 109,
+      "protein": 17.6,
+      "fat": 4.1,
+      "carbs": 0.5,
+      "sodium": 53.7,
+      "fiber": 0,
+      "potassium": 334,
+      "calcium": 50,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "罗非鱼": {
+    "per_100g": {
+      "calories": 98,
+      "protein": 18.4,
+      "fat": 1.5,
+      "carbs": 2.8,
+      "sodium": 19.8,
+      "fiber": 0,
+      "potassium": 289,
+      "calcium": 12,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "罗非鱼[非洲 黑鲫鱼］": {
+    "per_100g": {
+      "calories": 77,
+      "protein": 16,
+      "fat": 1,
+      "carbs": 1,
+      "sodium": 66.8,
+      "fiber": 0,
+      "potassium": 338,
+      "calcium": 24,
+      "iron": 1.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "泥鳅": {
+    "per_100g": {
+      "calories": 96,
+      "protein": 17.9,
+      "fat": 2,
+      "carbs": 1.7,
+      "sodium": 74.8,
+      "fiber": 0,
+      "potassium": 282,
+      "calcium": 299,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "青鱼［青皮鱼、青鳞鱼、青混］": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 20.1,
+      "fat": 4.2,
+      "carbs": 0,
+      "sodium": 47.4,
+      "fiber": 0,
+      "potassium": 325,
+      "calcium": 31,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "乌［黑鱼、乌鱼、生鱼］": {
+    "per_100g": {
+      "calories": 85,
+      "protein": 18.5,
+      "fat": 1.2,
+      "carbs": 0,
+      "sodium": 48.8,
+      "fiber": 0,
+      "potassium": 313,
+      "calcium": 152,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "银鱼［面条鱼］": {
+    "per_100g": {
+      "calories": 105,
+      "protein": 17.2,
+      "fat": 4,
+      "carbs": 0,
+      "sodium": 8.6,
+      "fiber": 0,
+      "potassium": 246,
+      "calcium": 46,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "湟鱼[裸鲤鱼］": {
+    "per_100g": {
+      "calories": 124,
+      "protein": 17.1,
+      "fat": 3.2,
+      "carbs": 6.7,
+      "sodium": 42,
+      "fiber": 0,
+      "potassium": 372,
+      "calcium": 42,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼［胡子鲈、鲢胡、旺虾］": {
+    "per_100g": {
+      "calories": 103,
+      "protein": 17.3,
+      "fat": 3.7,
+      "carbs": 0,
+      "sodium": 49.6,
+      "fiber": 0,
+      "potassium": 351,
+      "calcium": 42,
+      "iron": 2.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲢鱼［白鲢、胖子、连子鱼］": {
+    "per_100g": {
+      "calories": 104,
+      "protein": 17.8,
+      "fat": 3.6,
+      "carbs": 0,
+      "sodium": 57.5,
+      "fiber": 0,
+      "potassium": 277,
+      "calcium": 53,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲫鱼「喜头鱼、海附鱼］": {
+    "per_100g": {
+      "calories": 108,
+      "protein": 17.1,
+      "fat": 2.7,
+      "carbs": 3.8,
+      "sodium": 41.2,
+      "fiber": 0,
+      "potassium": 290,
+      "calcium": 79,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲮鱼[雪鲮】": {
+    "per_100g": {
+      "calories": 95,
+      "protein": 18.4,
+      "fat": 2.1,
+      "carbs": 0.7,
+      "sodium": 40.1,
+      "fiber": 0,
+      "potassium": 317,
+      "calcium": 31,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲮鱼": {
+    "per_100g": {
+      "calories": 399,
+      "protein": 30.7,
+      "fat": 26.9,
+      "carbs": 8.5,
+      "sodium": 2310,
+      "fiber": 0,
+      "potassium": 480,
+      "calcium": 598,
+      "iron": 6.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "编鱼「鲂鱼、武昌鱼］": {
+    "per_100g": {
+      "calories": 135,
+      "protein": 18.3,
+      "fat": 6.3,
+      "carbs": 1.2,
+      "sodium": 41.1,
+      "fiber": 0,
+      "potassium": 215,
+      "calcium": 89,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳗[鳗鱼、河鳗］": {
+    "per_100g": {
+      "calories": 181,
+      "protein": 18.6,
+      "fat": 10.8,
+      "carbs": 2.3,
+      "sodium": 58.8,
+      "fiber": 0,
+      "potassium": 207,
+      "calcium": 42,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳙鱼「胖头鱼、摆佳鱼、花 鲢鱼］": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 15.3,
+      "fat": 2.2,
+      "carbs": 4.7,
+      "sodium": 60.6,
+      "fiber": 0,
+      "potassium": 229,
+      "calcium": 82,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "瓣鱼「桂鱼、花鲫鱼］": {
+    "per_100g": {
+      "calories": 117,
+      "protein": 19.9,
+      "fat": 4.2,
+      "carbs": 0,
+      "sodium": 68.6,
+      "fiber": 0,
+      "potassium": 295,
+      "calcium": 63,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳟鱼": {
+    "per_100g": {
+      "calories": 99,
+      "protein": 18.6,
+      "fat": 2.6,
+      "carbs": 0.2,
+      "sodium": 110,
+      "fiber": 0,
+      "potassium": 688,
+      "calcium": 34,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "草鱼［白鲩、草包鱼］": {
+    "per_100g": {
+      "calories": 96,
+      "protein": 17.7,
+      "fat": 2.6,
+      "carbs": 0.5,
+      "sodium": 36,
+      "fiber": 0,
+      "potassium": 325,
+      "calcium": 17,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲢鱼[白鲢、胖子、连子鱼］": {
+    "per_100g": {
+      "calories": 84,
+      "protein": 16.3,
+      "fat": 2.1,
+      "carbs": 0,
+      "sodium": 57.5,
+      "fiber": 0,
+      "potassium": 277,
+      "calcium": 53,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲫鱼「喜头鱼、海附鱼]": {
+    "per_100g": {
+      "calories": 89,
+      "protein": 18,
+      "fat": 1.6,
+      "carbs": 0.7,
+      "sodium": 41.2,
+      "fiber": 0,
+      "potassium": 290,
+      "calcium": 79,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "丁桂鱼": {
+    "per_100g": {
+      "calories": 157,
+      "protein": 29.7,
+      "fat": 4.2,
+      "carbs": 0.2,
+      "sodium": 124.4,
+      "fiber": 0,
+      "potassium": 296,
+      "calcium": 81,
+      "iron": 2.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "乌「黑鱼、乌鱼、 生鱼】": {
+    "per_100g": {
+      "calories": 105,
+      "protein": 19.9,
+      "fat": 2.3,
+      "carbs": 1.1,
+      "sodium": 50,
+      "fiber": 0,
+      "potassium": 315,
+      "calcium": 20,
+      "iron": 0.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "花骨鱼": {
+    "per_100g": {
+      "calories": 155,
+      "protein": 25.8,
+      "fat": 5.6,
+      "carbs": 0.4,
+      "sodium": 73.2,
+      "fiber": 0,
+      "potassium": 325,
+      "calcium": 760,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄颡鱼「戈牙鱼、黄鳍鱼]": {
+    "per_100g": {
+      "calories": 161,
+      "protein": 17.3,
+      "fat": 10.2,
+      "carbs": 0,
+      "sodium": 40.7,
+      "fiber": 0,
+      "potassium": 235,
+      "calcium": 0,
+      "iron": 14,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "回头鱼": {
+    "per_100g": {
+      "calories": 107,
+      "protein": 14.5,
+      "fat": 5.3,
+      "carbs": 0.4,
+      "sodium": 33.7,
+      "fiber": 0,
+      "potassium": 175,
+      "calcium": 47,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "抗浪鱼": {
+    "per_100g": {
+      "calories": 174,
+      "protein": 16.6,
+      "fat": 11,
+      "carbs": 2.1,
+      "sodium": 71.3,
+      "fiber": 0,
+      "potassium": 126,
+      "calcium": 564,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蓝鳃太阳鱼": {
+    "per_100g": {
+      "calories": 93,
+      "protein": 17.8,
+      "fat": 2.3,
+      "carbs": 0.3,
+      "sodium": 33.5,
+      "fiber": 0,
+      "potassium": 264,
+      "calcium": 27,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "钳鱼": {
+    "per_100g": {
+      "calories": 212,
+      "protein": 29.2,
+      "fat": 10.3,
+      "carbs": 0.7,
+      "sodium": 70.3,
+      "fiber": 0,
+      "potassium": 370,
+      "calcium": 65,
+      "iron": 0.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "翘嘴红": {
+    "per_100g": {
+      "calories": 123,
+      "protein": 18.1,
+      "fat": 5.6,
+      "carbs": 0.1,
+      "sodium": 49.4,
+      "fiber": 0,
+      "potassium": 592,
+      "calcium": 30,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蝙鱼［鲂鱼、武昌鱼］": {
+    "per_100g": {
+      "calories": 142,
+      "protein": 27,
+      "fat": 3.5,
+      "carbs": 0.7,
+      "sodium": 127.9,
+      "fiber": 0,
+      "potassium": 297,
+      "calcium": 211,
+      "iron": 1.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲟鱼": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 23.4,
+      "fat": 0.4,
+      "carbs": 0.6,
+      "sodium": 167.8,
+      "fiber": 0,
+      "potassium": 305,
+      "calcium": 31,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "雅鱼": {
+    "per_100g": {
+      "calories": 131,
+      "protein": 26.5,
+      "fat": 2.7,
+      "carbs": 0.1,
+      "sodium": 83.8,
+      "fiber": 0,
+      "potassium": 420,
+      "calcium": 14,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "胭脂鱼": {
+    "per_100g": {
+      "calories": 162,
+      "protein": 38.8,
+      "fat": 0.6,
+      "carbs": 0.4,
+      "sodium": 83.4,
+      "fiber": 0,
+      "potassium": 547,
+      "calcium": 139,
+      "iron": 0.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "棒棒鱼": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 27.1,
+      "fat": 1.1,
+      "carbs": 0,
+      "sodium": 476,
+      "fiber": 0,
+      "potassium": 33,
+      "calcium": 6,
+      "iron": 2.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "尖嘴鱼": {
+    "per_100g": {
+      "calories": 107,
+      "protein": 17.1,
+      "fat": 2.2,
+      "carbs": 4.6,
+      "sodium": 167,
+      "fiber": 0,
+      "potassium": 36,
+      "calcium": 10,
+      "iron": 1.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "胡子鱼": {
+    "per_100g": {
+      "calories": 99,
+      "protein": 17.4,
+      "fat": 1.3,
+      "carbs": 4.4,
+      "sodium": 376,
+      "fiber": 0,
+      "potassium": 35,
+      "calcium": 11,
+      "iron": 2.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "白姑鱼[白米子(鱼）］": {
+    "per_100g": {
+      "calories": 150,
+      "protein": 19.1,
+      "fat": 8.2,
+      "carbs": 0,
+      "sodium": 152.7,
+      "fiber": 0,
+      "potassium": 382,
+      "calcium": 23,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼［蓝圆、边鱼］": {
+    "per_100g": {
+      "calories": 124,
+      "protein": 18.5,
+      "fat": 3.4,
+      "carbs": 4.8,
+      "sodium": 81.6,
+      "fiber": 0,
+      "potassium": 215,
+      "calcium": 55,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "带鱼［白带鱼、刀鱼］": {
+    "per_100g": {
+      "calories": 127,
+      "protein": 17.7,
+      "fat": 4.9,
+      "carbs": 3.1,
+      "sodium": 150.1,
+      "fiber": 0,
+      "potassium": 280,
+      "calcium": 28,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "堤鱼": {
+    "per_100g": {
+      "calories": 191,
+      "protein": 17.6,
+      "fat": 12.8,
+      "carbs": 1.3,
+      "sodium": 65,
+      "fiber": 0,
+      "potassium": 228,
+      "calcium": 15,
+      "iron": 2.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "丁香鱼": {
+    "per_100g": {
+      "calories": 196,
+      "protein": 37.5,
+      "fat": 3.1,
+      "carbs": 4.6,
+      "sodium": 4375,
+      "fiber": 0,
+      "potassium": 664,
+      "calcium": 590,
+      "iron": 4.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "狗母鱼[大头狗母鱼］": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 16.7,
+      "fat": 2.3,
+      "carbs": 3,
+      "sodium": 156.3,
+      "fiber": 0,
+      "potassium": 194,
+      "calcium": 95,
+      "iron": 2.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海鲫鱼": {
+    "per_100g": {
+      "calories": 206,
+      "protein": 17,
+      "fat": 13.7,
+      "carbs": 3.6,
+      "sodium": 15.8,
+      "fiber": 0,
+      "potassium": 133,
+      "calcium": 69,
+      "iron": 1.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海鳗": {
+    "per_100g": {
+      "calories": 122,
+      "protein": 18.8,
+      "fat": 5,
+      "carbs": 0.5,
+      "sodium": 95.8,
+      "fiber": 0,
+      "potassium": 266,
+      "calcium": 28,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "红娘鱼[翼红娘鱼］": {
+    "per_100g": {
+      "calories": 105,
+      "protein": 18,
+      "fat": 2.8,
+      "carbs": 1.9,
+      "sodium": 163.9,
+      "fiber": 0,
+      "potassium": 308,
+      "calcium": 160,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄姑鱼[黄婆鸡］": {
+    "per_100g": {
+      "calories": 137,
+      "protein": 18.4,
+      "fat": 7,
+      "carbs": 0,
+      "sodium": 101.9,
+      "fiber": 0,
+      "potassium": 282,
+      "calcium": 94,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄鱼": {
+    "per_100g": {
+      "calories": 97,
+      "protein": 17.7,
+      "fat": 2.5,
+      "carbs": 0.8,
+      "sodium": 120.3,
+      "fiber": 0,
+      "potassium": 260,
+      "calcium": 53,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄鲂［赤虹、老板鱼］": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 18.5,
+      "fat": 0.5,
+      "carbs": 0.6,
+      "sodium": 159.9,
+      "fiber": 0,
+      "potassium": 227,
+      "calcium": 27,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "金线鱼": {
+    "per_100g": {
+      "calories": 101,
+      "protein": 18.6,
+      "fat": 2.9,
+      "carbs": 0,
+      "sodium": 118,
+      "fiber": 0,
+      "potassium": 300,
+      "calcium": 102,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "绿鳍马面[面包鱼、橡皮鱼］": {
+    "per_100g": {
+      "calories": 83,
+      "protein": 18.1,
+      "fat": 0.6,
+      "carbs": 1.2,
+      "sodium": 80.5,
+      "fiber": 0,
+      "potassium": 291,
+      "calcium": 54,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "梅童鱼「大头仔鱼、丁珠鱼］": {
+    "per_100g": {
+      "calories": 121,
+      "protein": 18.9,
+      "fat": 5,
+      "carbs": 0,
+      "sodium": 106.1,
+      "fiber": 0,
+      "potassium": 299,
+      "calcium": 34,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "沙丁鱼[沙］": {
+    "per_100g": {
+      "calories": 89,
+      "protein": 19.8,
+      "fat": 1.1,
+      "carbs": 0,
+      "sodium": 91.5,
+      "fiber": 0,
+      "potassium": 136,
+      "calcium": 184,
+      "iron": 0.16,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "沙钻鱼「多鳞鳍、沙梭鱼、 麦穗鱼］": {
+    "per_100g": {
+      "calories": 84,
+      "protein": 18.4,
+      "fat": 0.6,
+      "carbs": 1.2,
+      "sodium": 40,
+      "fiber": 0,
+      "potassium": 173.6,
+      "calcium": 120,
+      "iron": 0.75,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛇［沙梭鱼］": {
+    "per_100g": {
+      "calories": 122,
+      "protein": 20.8,
+      "fat": 4.2,
+      "carbs": 0.3,
+      "sodium": 118.4,
+      "fiber": 0,
+      "potassium": 304,
+      "calcium": 117,
+      "iron": 0.58,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "舌鳎［花纹舌头、舌头鱼］": {
+    "per_100g": {
+      "calories": 83,
+      "protein": 17.7,
+      "fat": 1.4,
+      "carbs": 0,
+      "sodium": 138.8,
+      "fiber": 0,
+      "potassium": 309,
+      "calcium": 57,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "油抒[香梭鱼］": {
+    "per_100g": {
+      "calories": 145,
+      "protein": 15.9,
+      "fat": 9,
+      "carbs": 0,
+      "sodium": 67.5,
+      "fiber": 0,
+      "potassium": 275,
+      "calcium": 13,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "颚针鱼[针量鱼］": {
+    "per_100g": {
+      "calories": 180,
+      "protein": 20.2,
+      "fat": 10.4,
+      "carbs": 1.4,
+      "sodium": 73.3,
+      "fiber": 0,
+      "potassium": 336,
+      "calcium": 58,
+      "iron": 1.73,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼「马鲛鱼、燕鱿鱼、巴鱼］": {
+    "per_100g": {
+      "calories": 121,
+      "protein": 21.2,
+      "fat": 3.1,
+      "carbs": 2.1,
+      "sodium": 74.2,
+      "fiber": 0,
+      "potassium": 370,
+      "calcium": 35,
+      "iron": 1.39,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼[咸马胶］": {
+    "per_100g": {
+      "calories": 157,
+      "protein": 23.3,
+      "fat": 1.6,
+      "carbs": 12.4,
+      "sodium": 5350,
+      "fiber": 0,
+      "potassium": 298,
+      "calcium": 0,
+      "iron": 2.33,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲈鱼[鲈花】": {
+    "per_100g": {
+      "calories": 105,
+      "protein": 18.6,
+      "fat": 3.4,
+      "carbs": 0,
+      "sodium": 144.1,
+      "fiber": 0,
+      "potassium": 205,
+      "calcium": 138,
+      "iron": 2.83,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "始鱼「青鱼、始巴鱼、 青砖鱼］": {
+    "per_100g": {
+      "calories": 155,
+      "protein": 19.9,
+      "fat": 7.4,
+      "carbs": 2.2,
+      "sodium": 87.7,
+      "fiber": 0,
+      "potassium": 263,
+      "calcium": 50,
+      "iron": 1.02,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲑鱼【大马哈鱼、三文鱼］": {
+    "per_100g": {
+      "calories": 139,
+      "protein": 17.2,
+      "fat": 7.8,
+      "carbs": 0,
+      "sodium": 63.3,
+      "fiber": 0,
+      "potassium": 361,
+      "calcium": 13,
+      "iron": 1.11,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲑鱼籽酱「大马哈鱼籽酱、 三文鱼籽酱": {
+    "per_100g": {
+      "calories": 252,
+      "protein": 10.9,
+      "fat": 16.8,
+      "carbs": 14.4,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 171,
+      "calcium": 23,
+      "iron": 2.69,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼（大)[大凤尾鱼］": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 13.2,
+      "fat": 5.5,
+      "carbs": 0.8,
+      "sodium": 53.1,
+      "fiber": 0,
+      "potassium": 161,
+      "calcium": 114,
+      "iron": 1.51,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼「小凤尾鱼］": {
+    "per_100g": {
+      "calories": 124,
+      "protein": 15.5,
+      "fat": 5.1,
+      "carbs": 4,
+      "sodium": 38.5,
+      "fiber": 0,
+      "potassium": 225,
+      "calcium": 78,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲨鱼": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 22.2,
+      "fat": 3.2,
+      "carbs": 0,
+      "sodium": 102.2,
+      "fiber": 0,
+      "potassium": 285,
+      "calcium": 41,
+      "iron": 0.73,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼[平鱼］": {
+    "per_100g": {
+      "calories": 140,
+      "protein": 18.5,
+      "fat": 7.3,
+      "carbs": 0,
+      "sodium": 62.5,
+      "fiber": 0,
+      "potassium": 328,
+      "calcium": 46,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲷「黑鲷、铜盆鱼、大目鱼］": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 17.9,
+      "fat": 2.6,
+      "carbs": 2.7,
+      "sodium": 103.9,
+      "fiber": 0,
+      "potassium": 261,
+      "calcium": 186,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼[白眼棱鱼］": {
+    "per_100g": {
+      "calories": 119,
+      "protein": 18.9,
+      "fat": 4.8,
+      "carbs": 0,
+      "sodium": 71.4,
+      "fiber": 0,
+      "potassium": 245,
+      "calcium": 19,
+      "iron": 0.82,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲽［比目鱼、凸眼鱼］": {
+    "per_100g": {
+      "calories": 107,
+      "protein": 21.1,
+      "fat": 2.3,
+      "carbs": 0.5,
+      "sodium": 32,
+      "fiber": 0,
+      "potassium": 264,
+      "calcium": 107,
+      "iron": 0.92,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳕鱼「鳕狭、明太鱼］": {
+    "per_100g": {
+      "calories": 88,
+      "protein": 20.4,
+      "fat": 0.5,
+      "carbs": 0.5,
+      "sodium": 130.3,
+      "fiber": 0,
+      "potassium": 321,
+      "calcium": 42,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼「鳖鱼］": {
+    "per_100g": {
+      "calories": 89,
+      "protein": 20.2,
+      "fat": 0.9,
+      "carbs": 0,
+      "sodium": 54.8,
+      "fiber": 0,
+      "potassium": 357,
+      "calcium": 21,
+      "iron": 1.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "带鱼": {
+    "per_100g": {
+      "calories": 108,
+      "protein": 17.6,
+      "fat": 4.2,
+      "carbs": 0,
+      "sodium": 246.4,
+      "fiber": 0,
+      "potassium": 361,
+      "calcium": 431,
+      "iron": 1.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "金蝗鱼": {
+    "per_100g": {
+      "calories": 99,
+      "protein": 18.7,
+      "fat": 2.7,
+      "carbs": 0,
+      "sodium": 104.1,
+      "fiber": 0,
+      "potassium": 319,
+      "calcium": 20,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳍鱼": {
+    "per_100g": {
+      "calories": 413,
+      "protein": 14.4,
+      "fat": 39.4,
+      "carbs": 0.2,
+      "sodium": 56,
+      "fiber": 0,
+      "potassium": 308,
+      "calcium": 7,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "双髻鲨": {
+    "per_100g": {
+      "calories": 111,
+      "protein": 27.4,
+      "fat": 0.1,
+      "carbs": 0,
+      "sodium": 83,
+      "fiber": 0,
+      "potassium": 492,
+      "calcium": 4,
+      "iron": 0.8,
+      "vitaminC": 1.7
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "紫青低纹": {
+    "per_100g": {
+      "calories": 150,
+      "protein": 20.5,
+      "fat": 7.2,
+      "carbs": 0.8,
+      "sodium": 104,
+      "fiber": 0,
+      "potassium": 675,
+      "calcium": 0,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "大菱鲆鱼【多宝鱼］": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 17,
+      "fat": 1.1,
+      "carbs": 0.7,
+      "sodium": 83.6,
+      "fiber": 0,
+      "potassium": 244,
+      "calcium": 12,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海鲈鱼": {
+    "per_100g": {
+      "calories": 112,
+      "protein": 19.5,
+      "fat": 3.6,
+      "carbs": 0.4,
+      "sodium": 44.9,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 8,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "红鳍笛鲷[红鱼］": {
+    "per_100g": {
+      "calories": 134,
+      "protein": 20.1,
+      "fat": 4.8,
+      "carbs": 2.7,
+      "sodium": 113,
+      "fiber": 0,
+      "potassium": 450,
+      "calcium": 31,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄姑鱼": {
+    "per_100g": {
+      "calories": 88,
+      "protein": 14.7,
+      "fat": 0.7,
+      "carbs": 5.6,
+      "sodium": 147,
+      "fiber": 0,
+      "potassium": 281,
+      "calcium": 148,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱿鱼［马鲛鱼］": {
+    "per_100g": {
+      "calories": 194,
+      "protein": 18.7,
+      "fat": 11.3,
+      "carbs": 4.4,
+      "sodium": 36.7,
+      "fiber": 0,
+      "potassium": 378,
+      "calcium": 11,
+      "iron": 2.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "石斑鱼": {
+    "per_100g": {
+      "calories": 130,
+      "protein": 20.2,
+      "fat": 4.3,
+      "carbs": 2.7,
+      "sodium": 91.5,
+      "fiber": 0,
+      "potassium": 357,
+      "calcium": 24,
+      "iron": 21.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "苏眉鱼": {
+    "per_100g": {
+      "calories": 70,
+      "protein": 16.5,
+      "fat": 0.4,
+      "carbs": 0,
+      "sodium": 151,
+      "fiber": 0,
+      "potassium": 313,
+      "calcium": 22,
+      "iron": 1.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "青衣": {
+    "per_100g": {
+      "calories": 84,
+      "protein": 20.1,
+      "fat": 0.3,
+      "carbs": 0.2,
+      "sodium": 132,
+      "fiber": 0,
+      "potassium": 394,
+      "calcium": 16,
+      "iron": 1.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "笠鱼": {
+    "per_100g": {
+      "calories": 97,
+      "protein": 22.2,
+      "fat": 0.5,
+      "carbs": 0.9,
+      "sodium": 78.5,
+      "fiber": 0,
+      "potassium": 430,
+      "calcium": 21,
+      "iron": 4.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "金枪鱼肉": {
+    "per_100g": {
+      "calories": 102,
+      "protein": 23.7,
+      "fat": 0.3,
+      "carbs": 1.1,
+      "sodium": 55.5,
+      "fiber": 0,
+      "potassium": 517,
+      "calcium": 6,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱿鱼肉[马鲛鱼肉］": {
+    "per_100g": {
+      "calories": 102,
+      "protein": 23.7,
+      "fat": 0.3,
+      "carbs": 1,
+      "sodium": 84,
+      "fiber": 0,
+      "potassium": 566,
+      "calcium": 4,
+      "iron": 0.63,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "刺泡鱼［刺鲍鱼】": {
+    "per_100g": {
+      "calories": 94,
+      "protein": 23,
+      "fat": 0.2,
+      "carbs": 0,
+      "sodium": 203,
+      "fiber": 0,
+      "potassium": 191,
+      "calcium": 124,
+      "iron": 6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼片干": {
+    "per_100g": {
+      "calories": 303,
+      "protein": 46.1,
+      "fat": 3.4,
+      "carbs": 22,
+      "sodium": 2320.6,
+      "fiber": 0,
+      "potassium": 251,
+      "calcium": 106,
+      "iron": 4.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼奇油[鱼露、虾油］": {
+    "per_100g": {
+      "calories": 47,
+      "protein": 11.2,
+      "fat": 0.2,
+      "carbs": 0,
+      "sodium": 9350,
+      "fiber": 0,
+      "potassium": 199,
+      "calcium": 24,
+      "iron": 3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼排": {
+    "per_100g": {
+      "calories": 160,
+      "protein": 10.1,
+      "fat": 2.4,
+      "carbs": 24.5,
+      "sodium": 383.3,
+      "fiber": 0,
+      "potassium": 136,
+      "calcium": 13,
+      "iron": 0.62,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼丸": {
+    "per_100g": {
+      "calories": 107,
+      "protein": 11.1,
+      "fat": 1.3,
+      "carbs": 12.7,
+      "sodium": 854.2,
+      "fiber": 0,
+      "potassium": 360,
+      "calcium": 97,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼子酱": {
+    "per_100g": {
+      "calories": 201,
+      "protein": 9.6,
+      "fat": 7.1,
+      "carbs": 24.7,
+      "sodium": 394.6,
+      "fiber": 0,
+      "potassium": 271,
+      "calcium": 23,
+      "iron": 1.35,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "凤尾鱼 (熟）": {
+    "per_100g": {
+      "calories": 520,
+      "protein": 23.5,
+      "fat": 43,
+      "carbs": 9.7,
+      "sodium": 525.4,
+      "fiber": 0,
+      "potassium": 161,
+      "calcium": 665,
+      "iron": 1.78,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "箭鱼": {
+    "per_100g": {
+      "calories": 271,
+      "protein": 20.8,
+      "fat": 16.1,
+      "carbs": 10.7,
+      "sodium": 403.6,
+      "fiber": 0,
+      "potassium": 60,
+      "calcium": 211,
+      "iron": 0.72,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "金枪鱼": {
+    "per_100g": {
+      "calories": 99,
+      "protein": 23.5,
+      "fat": 0.6,
+      "carbs": 0,
+      "sodium": 320,
+      "fiber": 0,
+      "potassium": 230,
+      "calcium": 8,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲮鱼(豆豉，熟）": {
+    "per_100g": {
+      "calories": 472,
+      "protein": 25.5,
+      "fat": 33.1,
+      "carbs": 17.9,
+      "sodium": 47,
+      "fiber": 0,
+      "potassium": 399,
+      "calcium": 179,
+      "iron": 2.18,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳗鱼": {
+    "per_100g": {
+      "calories": 211,
+      "protein": 21.3,
+      "fat": 9.8,
+      "carbs": 9.5,
+      "sodium": 16,
+      "fiber": 0,
+      "potassium": 174,
+      "calcium": 37,
+      "iron": 2.46,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "沙丁鱼": {
+    "per_100g": {
+      "calories": 155,
+      "protein": 13.8,
+      "fat": 9.8,
+      "carbs": 3,
+      "sodium": 20,
+      "fiber": 0,
+      "potassium": 820.2,
+      "calcium": 17,
+      "iron": 0.32,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "午餐鱼": {
+    "per_100g": {
+      "calories": 383,
+      "protein": 24.4,
+      "fat": 30.2,
+      "carbs": 3.3,
+      "sodium": 1321.2,
+      "fiber": 0,
+      "potassium": 576,
+      "calcium": 725,
+      "iron": 1.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鳕鱼": {
+    "per_100g": {
+      "calories": 96,
+      "protein": 21.4,
+      "fat": 1.2,
+      "carbs": 0,
+      "sodium": 340,
+      "fiber": 0,
+      "potassium": 350,
+      "calcium": 11,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "白米虾": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 17.3,
+      "fat": 0.4,
+      "carbs": 2,
+      "sodium": 90.7,
+      "fiber": 0,
+      "potassium": 255,
+      "calcium": 403,
+      "iron": 2.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "斑节对虾": {
+    "per_100g": {
+      "calories": 103,
+      "protein": 18.6,
+      "fat": 0.8,
+      "carbs": 5.4,
+      "sodium": 168.8,
+      "fiber": 0,
+      "potassium": 363,
+      "calcium": 59,
+      "iron": 2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "长毛对虾［大虾、白露虾］": {
+    "per_100g": {
+      "calories": 90,
+      "protein": 18.5,
+      "fat": 0.4,
+      "carbs": 3,
+      "sodium": 208.8,
+      "fiber": 0,
+      "potassium": 386,
+      "calcium": 36,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蚓［刺、大头虾］": {
+    "per_100g": {
+      "calories": 77,
+      "protein": 16,
+      "fat": 1.4,
+      "carbs": 0,
+      "sodium": 86.8,
+      "fiber": 0,
+      "potassium": 181,
+      "calcium": 0,
+      "iron": 14.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "东方对虾【中国对虾]": {
+    "per_100g": {
+      "calories": 84,
+      "protein": 18.3,
+      "fat": 0.5,
+      "carbs": 1.6,
+      "sodium": 133.6,
+      "fiber": 0,
+      "potassium": 217,
+      "calcium": 35,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "对虾": {
+    "per_100g": {
+      "calories": 93,
+      "protein": 18.6,
+      "fat": 0.8,
+      "carbs": 2.8,
+      "sodium": 165.2,
+      "fiber": 0,
+      "potassium": 215,
+      "calcium": 62,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海虾": {
+    "per_100g": {
+      "calories": 79,
+      "protein": 16.8,
+      "fat": 0.6,
+      "carbs": 1.5,
+      "sodium": 302.2,
+      "fiber": 0,
+      "potassium": 228,
+      "calcium": 146,
+      "iron": 3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "河虾": {
+    "per_100g": {
+      "calories": 87,
+      "protein": 16.4,
+      "fat": 2.4,
+      "carbs": 0,
+      "sodium": 133.8,
+      "fiber": 0,
+      "potassium": 329,
+      "calcium": 325,
+      "iron": 4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "基围虾": {
+    "per_100g": {
+      "calories": 101,
+      "protein": 18.2,
+      "fat": 1.4,
+      "carbs": 3.9,
+      "sodium": 172,
+      "fiber": 0,
+      "potassium": 250,
+      "calcium": 83,
+      "iron": 2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "江虾": {
+    "per_100g": {
+      "calories": 87,
+      "protein": 10.3,
+      "fat": 0.9,
+      "carbs": 9.3,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 683,
+      "calcium": 78,
+      "iron": 8.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "龙虾": {
+    "per_100g": {
+      "calories": 90,
+      "protein": 18.9,
+      "fat": 1.1,
+      "carbs": 1,
+      "sodium": 190,
+      "fiber": 0,
+      "potassium": 257,
+      "calcium": 21,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "明虾": {
+    "per_100g": {
+      "calories": 85,
+      "protein": 13.4,
+      "fat": 1.8,
+      "carbs": 3.8,
+      "sodium": 119,
+      "fiber": 0,
+      "potassium": 238,
+      "calcium": 75,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "塘水虾": {
+    "per_100g": {
+      "calories": 96,
+      "protein": 21.2,
+      "fat": 1.2,
+      "carbs": 0,
+      "sodium": 109,
+      "fiber": 0,
+      "potassium": 250,
+      "calcium": 403,
+      "iron": 3.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾虎": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 11.6,
+      "fat": 1.7,
+      "carbs": 4.8,
+      "sodium": 136.6,
+      "fiber": 0,
+      "potassium": 132,
+      "calcium": 22,
+      "iron": 1.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "螯虾": {
+    "per_100g": {
+      "calories": 93,
+      "protein": 14.8,
+      "fat": 3.8,
+      "carbs": 0,
+      "sodium": 225.2,
+      "fiber": 0,
+      "potassium": 550,
+      "calcium": 85,
+      "iron": 6.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "北极虾": {
+    "per_100g": {
+      "calories": 132,
+      "protein": 14.9,
+      "fat": 1.2,
+      "carbs": 15.4,
+      "sodium": 566.7,
+      "fiber": 0,
+      "potassium": 244,
+      "calcium": 0,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "九节虾": {
+    "per_100g": {
+      "calories": 90,
+      "protein": 21.4,
+      "fat": 0.1,
+      "carbs": 0.8,
+      "sodium": 243.5,
+      "fiber": 0,
+      "potassium": 396,
+      "calcium": 12,
+      "iron": 2.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "口虾站": {
+    "per_100g": {
+      "calories": 82,
+      "protein": 14.8,
+      "fat": 1.7,
+      "carbs": 1.8,
+      "sodium": 556.1,
+      "fiber": 0,
+      "potassium": 246,
+      "calcium": 6,
+      "iron": 2.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "罗氏沼虾": {
+    "per_100g": {
+      "calories": 91,
+      "protein": 20.6,
+      "fat": 0.8,
+      "carbs": 0,
+      "sodium": 122.3,
+      "fiber": 0,
+      "potassium": 318,
+      "calcium": 5,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "南美白对虾": {
+    "per_100g": {
+      "calories": 83,
+      "protein": 19.4,
+      "fat": 0.2,
+      "carbs": 0,
+      "sodium": 70.5,
+      "fiber": 0,
+      "potassium": 309,
+      "calcium": 7,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "青虾": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 23.8,
+      "fat": 0.4,
+      "carbs": 0.2,
+      "sodium": 277.1,
+      "fiber": 0,
+      "potassium": 260,
+      "calcium": 28,
+      "iron": 0.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "琼海虾": {
+    "per_100g": {
+      "calories": 56,
+      "protein": 8.9,
+      "fat": 1.8,
+      "carbs": 0.9,
+      "sodium": 107.7,
+      "fiber": 0,
+      "potassium": 224,
+      "calcium": 0,
+      "iron": 0.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾米": {
+    "per_100g": {
+      "calories": 198,
+      "protein": 43.7,
+      "fat": 2.6,
+      "carbs": 0,
+      "sodium": 4891.9,
+      "fiber": 0,
+      "potassium": 550,
+      "calcium": 555,
+      "iron": 11,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾脑酱": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 15.2,
+      "fat": 4.3,
+      "carbs": 0,
+      "sodium": 1790,
+      "fiber": 0,
+      "potassium": 111,
+      "calcium": 667,
+      "iron": 8.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾酱": {
+    "per_100g": {
+      "calories": 112,
+      "protein": 10.8,
+      "fat": 7.6,
+      "carbs": 0,
+      "sodium": 4584.6,
+      "fiber": 0,
+      "potassium": 196,
+      "calcium": 308,
+      "iron": 11.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾仁": {
+    "per_100g": {
+      "calories": 48,
+      "protein": 10.4,
+      "fat": 0.7,
+      "carbs": 0,
+      "sodium": 272.1,
+      "fiber": 0,
+      "potassium": 98,
+      "calcium": 23,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾皮": {
+    "per_100g": {
+      "calories": 153,
+      "protein": 30.7,
+      "fat": 2.2,
+      "carbs": 2.5,
+      "sodium": 5057.7,
+      "fiber": 0,
+      "potassium": 617,
+      "calcium": 991,
+      "iron": 6.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "虾仁肉丸": {
+    "per_100g": {
+      "calories": 152,
+      "protein": 4.6,
+      "fat": 7.4,
+      "carbs": 16.7,
+      "sodium": 429,
+      "fiber": 0,
+      "potassium": 58,
+      "calcium": 7,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海蟹": {
+    "per_100g": {
+      "calories": 95,
+      "protein": 13.8,
+      "fat": 2.3,
+      "carbs": 4.7,
+      "sodium": 260,
+      "fiber": 0,
+      "potassium": 232,
+      "calcium": 208,
+      "iron": 1.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "河蟹": {
+    "per_100g": {
+      "calories": 103,
+      "protein": 17.5,
+      "fat": 2.6,
+      "carbs": 2.3,
+      "sodium": 193.5,
+      "fiber": 0,
+      "potassium": 181,
+      "calcium": 126,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "锯缘青蟹[青蟹】": {
+    "per_100g": {
+      "calories": 80,
+      "protein": 14.6,
+      "fat": 1.6,
+      "carbs": 1.7,
+      "sodium": 192.9,
+      "fiber": 0,
+      "potassium": 206,
+      "calcium": 228,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "梭子蟹": {
+    "per_100g": {
+      "calories": 95,
+      "protein": 15.9,
+      "fat": 3.1,
+      "carbs": 0.9,
+      "sodium": 481.4,
+      "fiber": 0,
+      "potassium": 208,
+      "calcium": 280,
+      "iron": 2.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蟹肉": {
+    "per_100g": {
+      "calories": 62,
+      "protein": 11.6,
+      "fat": 1.2,
+      "carbs": 1.1,
+      "sodium": 270,
+      "fiber": 0,
+      "potassium": 214,
+      "calcium": 231,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "锯缘青蟹": {
+    "per_100g": {
+      "calories": 126,
+      "protein": 16.7,
+      "fat": 5.2,
+      "carbs": 3.1,
+      "sodium": 240.4,
+      "fiber": 0,
+      "potassium": 156,
+      "calcium": 179,
+      "iron": 11.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "大闸蟹": {
+    "per_100g": {
+      "calories": 156,
+      "protein": 21,
+      "fat": 7.7,
+      "carbs": 0.6,
+      "sodium": 187.8,
+      "fiber": 0,
+      "potassium": 224,
+      "calcium": 15,
+      "iron": 3.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海蟹（母)": {
+    "per_100g": {
+      "calories": 64,
+      "protein": 14.2,
+      "fat": 0.3,
+      "carbs": 1.2,
+      "sodium": 324.1,
+      "fiber": 0,
+      "potassium": 241,
+      "calcium": 107,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蟹足棒": {
+    "per_100g": {
+      "calories": 123,
+      "protein": 9,
+      "fat": 0.6,
+      "carbs": 0,
+      "sodium": 1242,
+      "fiber": 0,
+      "potassium": 164,
+      "calcium": 144,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蟹膏": {
+    "per_100g": {
+      "calories": 167,
+      "protein": 15.4,
+      "fat": 9.8,
+      "carbs": 4.4,
+      "sodium": 386.3,
+      "fiber": 0,
+      "potassium": 181,
+      "calcium": 13,
+      "iron": 37.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蟹黄": {
+    "per_100g": {
+      "calories": 255,
+      "protein": 24,
+      "fat": 17.2,
+      "carbs": 1.2,
+      "sodium": 224.3,
+      "fiber": 0,
+      "potassium": 128,
+      "calcium": 5,
+      "iron": 26.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲍鱼[杂色鲍］": {
+    "per_100g": {
+      "calories": 84,
+      "protein": 12.6,
+      "fat": 0.8,
+      "carbs": 6.6,
+      "sodium": 2011.7,
+      "fiber": 0,
+      "potassium": 136,
+      "calcium": 266,
+      "iron": 22.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲍鱼": {
+    "per_100g": {
+      "calories": 322,
+      "protein": 54.1,
+      "fat": 5.6,
+      "carbs": 13.7,
+      "sodium": 2316.2,
+      "fiber": 0,
+      "potassium": 366,
+      "calcium": 143,
+      "iron": 6.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛏子": {
+    "per_100g": {
+      "calories": 40,
+      "protein": 7.3,
+      "fat": 0.3,
+      "carbs": 2.1,
+      "sodium": 175.9,
+      "fiber": 0,
+      "potassium": 140,
+      "calcium": 134,
+      "iron": 33.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛏干[蛏子缢、蛏青子］": {
+    "per_100g": {
+      "calories": 340,
+      "protein": 46.5,
+      "fat": 4.9,
+      "carbs": 27.4,
+      "sodium": 1175,
+      "fiber": 0,
+      "potassium": 586,
+      "calcium": 107,
+      "iron": 88.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "赤贝": {
+    "per_100g": {
+      "calories": 61,
+      "protein": 13.9,
+      "fat": 0.6,
+      "carbs": 0,
+      "sodium": 266.1,
+      "fiber": 0,
+      "potassium": 153,
+      "calcium": 35,
+      "iron": 4.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "河蚌": {
+    "per_100g": {
+      "calories": 54,
+      "protein": 10.9,
+      "fat": 0.8,
+      "carbs": 0.7,
+      "sodium": 17.4,
+      "fiber": 0,
+      "potassium": 17,
+      "calcium": 248,
+      "iron": 26.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "河蚬[蚬子】": {
+    "per_100g": {
+      "calories": 47,
+      "protein": 7,
+      "fat": 1.4,
+      "carbs": 1.7,
+      "sodium": 18.4,
+      "fiber": 0,
+      "potassium": 25,
+      "calcium": 39,
+      "iron": 11.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "牡蛎": {
+    "per_100g": {
+      "calories": 73,
+      "protein": 5.3,
+      "fat": 2.1,
+      "carbs": 8.2,
+      "sodium": 462.1,
+      "fiber": 0,
+      "potassium": 200,
+      "calcium": 131,
+      "iron": 7.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "生蚝": {
+    "per_100g": {
+      "calories": 57,
+      "protein": 10.9,
+      "fat": 1.5,
+      "carbs": 0,
+      "sodium": 270,
+      "fiber": 0,
+      "potassium": 375,
+      "calcium": 35,
+      "iron": 5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "泥蚶［血蚶、珠蚶］": {
+    "per_100g": {
+      "calories": 71,
+      "protein": 10,
+      "fat": 0.8,
+      "carbs": 6,
+      "sodium": 354.9,
+      "fiber": 0,
+      "potassium": 207,
+      "calcium": 59,
+      "iron": 11.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "扇贝": {
+    "per_100g": {
+      "calories": 60,
+      "protein": 11.1,
+      "fat": 0.6,
+      "carbs": 2.6,
+      "sodium": 339,
+      "fiber": 0,
+      "potassium": 122,
+      "calcium": 142,
+      "iron": 7.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜贝": {
+    "per_100g": {
+      "calories": 77,
+      "protein": 15.7,
+      "fat": 0.5,
+      "carbs": 2.5,
+      "sodium": 120,
+      "fiber": 0,
+      "potassium": 226,
+      "calcium": 28,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "银蚶": {
+    "per_100g": {
+      "calories": 71,
+      "protein": 12.2,
+      "fat": 1.4,
+      "carbs": 2.3,
+      "sodium": 280.1,
+      "fiber": 0,
+      "potassium": 76,
+      "calcium": 49,
+      "iron": 7.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "贻贝[淡菜、壳菜］": {
+    "per_100g": {
+      "calories": 80,
+      "protein": 11.4,
+      "fat": 1.7,
+      "carbs": 4.7,
+      "sodium": 451.4,
+      "fiber": 0,
+      "potassium": 157,
+      "calcium": 63,
+      "iron": 6.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "贻贝「淡菜、壳菜]": {
+    "per_100g": {
+      "calories": 355,
+      "protein": 47.8,
+      "fat": 9.3,
+      "carbs": 20.1,
+      "sodium": 779,
+      "fiber": 0,
+      "potassium": 264,
+      "calcium": 157,
+      "iron": 12.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海蚌": {
+    "per_100g": {
+      "calories": 42,
+      "protein": 9.5,
+      "fat": 0.3,
+      "carbs": 0.2,
+      "sodium": 793,
+      "fiber": 0,
+      "potassium": 159,
+      "calcium": 63,
+      "iron": 3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛤蜊(代表值）": {
+    "per_100g": {
+      "calories": 62,
+      "protein": 10.1,
+      "fat": 1.1,
+      "carbs": 2.8,
+      "sodium": 425.7,
+      "fiber": 0,
+      "potassium": 140,
+      "calcium": 133,
+      "iron": 10.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛤蜊": {
+    "per_100g": {
+      "calories": 45,
+      "protein": 7.7,
+      "fat": 0.6,
+      "carbs": 2.2,
+      "sodium": 309,
+      "fiber": 0,
+      "potassium": 235,
+      "calcium": 59,
+      "iron": 6.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛤蜊)": {
+    "per_100g": {
+      "calories": 97,
+      "protein": 15,
+      "fat": 1,
+      "carbs": 7.1,
+      "sodium": 363,
+      "fiber": 0,
+      "potassium": 164,
+      "calcium": 137,
+      "iron": 15.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛤蜊(沙蛤蜊）": {
+    "per_100g": {
+      "calories": 56,
+      "protein": 8.9,
+      "fat": 1.9,
+      "carbs": 0.8,
+      "sodium": 577.7,
+      "fiber": 0,
+      "potassium": 109,
+      "calcium": 111,
+      "iron": 6.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "红螺": {
+    "per_100g": {
+      "calories": 119,
+      "protein": 20.2,
+      "fat": 0.9,
+      "carbs": 7.6,
+      "sodium": 219.6,
+      "fiber": 0,
+      "potassium": 179,
+      "calcium": 539,
+      "iron": 5.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "黄螺［东风螺］": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 19.8,
+      "fat": 1,
+      "carbs": 4.5,
+      "sodium": 129.4,
+      "fiber": 0,
+      "potassium": 297,
+      "calcium": 55,
+      "iron": 3.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "螺蛳": {
+    "per_100g": {
+      "calories": 59,
+      "protein": 7.5,
+      "fat": 0.6,
+      "carbs": 6,
+      "sodium": 252.6,
+      "fiber": 0,
+      "potassium": 75,
+      "calcium": 156,
+      "iron": 1.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "石螺": {
+    "per_100g": {
+      "calories": 90,
+      "protein": 12.8,
+      "fat": 0.7,
+      "carbs": 8.2,
+      "sodium": 13,
+      "fiber": 0,
+      "potassium": 21,
+      "calcium": 2458,
+      "iron": 9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "田螺": {
+    "per_100g": {
+      "calories": 60,
+      "protein": 11,
+      "fat": 0.2,
+      "carbs": 3.6,
+      "sodium": 26,
+      "fiber": 0,
+      "potassium": 98,
+      "calcium": 1030,
+      "iron": 19.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "香海螺": {
+    "per_100g": {
+      "calories": 163,
+      "protein": 22.7,
+      "fat": 3.5,
+      "carbs": 10.1,
+      "sodium": 278.9,
+      "fiber": 0,
+      "potassium": 333,
+      "calcium": 91,
+      "iron": 3.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "缢蛏": {
+    "per_100g": {
+      "calories": 73,
+      "protein": 8.6,
+      "fat": 1.8,
+      "carbs": 5.6,
+      "sodium": 133.4,
+      "fiber": 0,
+      "potassium": 124,
+      "calcium": 64,
+      "iron": 21,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "牛角江班蛤「长带子］": {
+    "per_100g": {
+      "calories": 49,
+      "protein": 7.1,
+      "fat": 0.5,
+      "carbs": 4,
+      "sodium": 606.1,
+      "fiber": 0,
+      "potassium": 454,
+      "calcium": 43,
+      "iron": 3.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "文蛤": {
+    "per_100g": {
+      "calories": 56,
+      "protein": 9.2,
+      "fat": 0.7,
+      "carbs": 3.2,
+      "sodium": 456,
+      "fiber": 0,
+      "potassium": 115,
+      "calcium": 30,
+      "iron": 17.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "血蚶": {
+    "per_100g": {
+      "calories": 51,
+      "protein": 8.2,
+      "fat": 0.5,
+      "carbs": 3.3,
+      "sodium": 236.3,
+      "fiber": 0,
+      "potassium": 108,
+      "calcium": 234,
+      "iron": 27.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "六角螺": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 23.5,
+      "fat": 0.5,
+      "carbs": 0,
+      "sodium": 447,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 160,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "海螺肉": {
+    "per_100g": {
+      "calories": 1254,
+      "protein": 0.5,
+      "fat": 7,
+      "carbs": 0,
+      "sodium": 1320,
+      "fiber": 191,
+      "potassium": 829,
+      "calcium": 276,
+      "iron": 4.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "文蛤丸": {
+    "per_100g": {
+      "calories": 211,
+      "protein": 16.2,
+      "fat": 9.2,
+      "carbs": 0,
+      "sodium": 565,
+      "fiber": 0,
+      "potassium": 226,
+      "calcium": 21,
+      "iron": 8.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶": {
+    "per_100g": {
+      "calories": 65,
+      "protein": 3.3,
+      "fat": 3.6,
+      "carbs": 4.9,
+      "sodium": 63.7,
+      "fiber": 0,
+      "potassium": 180,
+      "calcium": 107,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，龙丹牌)": {
+    "per_100g": {
+      "calories": 66,
+      "protein": 2.9,
+      "fat": 3.8,
+      "carbs": 5.1,
+      "sodium": 41.5,
+      "fiber": 0,
+      "potassium": 145,
+      "calcium": 82,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，爱尔兰金 凯利全脂牛奶)": {
+    "per_100g": {
+      "calories": 62,
+      "protein": 3.2,
+      "fat": 3.6,
+      "carbs": 4.1,
+      "sodium": 21.7,
+      "fiber": 0,
+      "potassium": 217,
+      "calcium": 108,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，比利时纯 牧牛奶)": {
+    "per_100g": {
+      "calories": 61,
+      "protein": 3.5,
+      "fat": 3.4,
+      "carbs": 4,
+      "sodium": 23.9,
+      "fiber": 0,
+      "potassium": 239,
+      "calcium": 112,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，丹麦爱氏 晨曦有机全脂牛奶)": {
+    "per_100g": {
+      "calories": 67,
+      "protein": 3.5,
+      "fat": 3.6,
+      "carbs": 5.2,
+      "sodium": 18.7,
+      "fiber": 0,
+      "potassium": 187,
+      "calcium": 117,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，德国爱氏 晨曦纯牛奶)": {
+    "per_100g": {
+      "calories": 68,
+      "protein": 3.4,
+      "fat": 3.6,
+      "carbs": 5.5,
+      "sodium": 9,
+      "fiber": 0,
+      "potassium": 16.6,
+      "calcium": 87,
+      "iron": 0.18,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，法国得乐 思全脂牛奶)": {
+    "per_100g": {
+      "calories": 64,
+      "protein": 3.7,
+      "fat": 3.6,
+      "carbs": 4.3,
+      "sodium": 93.1,
+      "fiber": 0,
+      "potassium": 128,
+      "calcium": 116,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，光明优+ 高品质纯牛奶)": {
+    "per_100g": {
+      "calories": 67,
+      "protein": 3.6,
+      "fat": 3.8,
+      "carbs": 4.5,
+      "sodium": 20.4,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 114,
+      "iron": 0.17,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，龙丹松花 江牧场纯牛奶)": {
+    "per_100g": {
+      "calories": 67,
+      "protein": 3.6,
+      "fat": 3.7,
+      "carbs": 4.8,
+      "sodium": 15,
+      "fiber": 0,
+      "potassium": 193.1,
+      "calcium": 138,
+      "iron": 0.24,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，蒙牛特仑 苏有机纯牛奶)": {
+    "per_100g": {
+      "calories": 69,
+      "protein": 3.4,
+      "fat": 4,
+      "carbs": 4.9,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 40.7,
+      "calcium": 0,
+      "iron": 0.18,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，明治醇壹 高温杀菌乳)": {
+    "per_100g": {
+      "calories": 67,
+      "protein": 3.6,
+      "fat": 3.7,
+      "carbs": 4.8,
+      "sodium": 11,
+      "fiber": 0,
+      "potassium": 117,
+      "calcium": 114,
+      "iron": 0.22,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，瑞士艾美 全脂牛奶)": {
+    "per_100g": {
+      "calories": 70,
+      "protein": 3.2,
+      "fat": 3.5,
+      "carbs": 6.4,
+      "sodium": 9,
+      "fiber": 0,
+      "potassium": 19.9,
+      "calcium": 0,
+      "iron": 0.19,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，圣牧有机 纯牛奶)": {
+    "per_100g": {
+      "calories": 74,
+      "protein": 3.5,
+      "fat": 4.1,
+      "carbs": 5.7,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 17.1,
+      "calcium": 91,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，现代牧业 纯牛奶)": {
+    "per_100g": {
+      "calories": 66,
+      "protein": 3.3,
+      "fat": 3.6,
+      "carbs": 5.1,
+      "sodium": 93.6,
+      "fiber": 0,
+      "potassium": 138,
+      "calcium": 118,
+      "iron": 0.17,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶(全脂，新希望复原乳）": {
+    "per_100g": {
+      "calories": 63,
+      "protein": 3,
+      "fat": 3.6,
+      "carbs": 4.6,
+      "sodium": 32.7,
+      "fiber": 0,
+      "potassium": 327,
+      "calcium": 111,
+      "iron": 0.14,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，新希望千 岛湖牧场纯牛奶)": {
+    "per_100g": {
+      "calories": 62,
+      "protein": 3.2,
+      "fat": 3.5,
+      "carbs": 4.3,
+      "sodium": 31.8,
+      "fiber": 0,
+      "potassium": 318,
+      "calcium": 111,
+      "iron": 0.17,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（全脂，伊利金典 有机纯牛奶)": {
+    "per_100g": {
+      "calories": 73,
+      "protein": 3.5,
+      "fat": 4.1,
+      "carbs": 5.4,
+      "sodium": 14.6,
+      "fiber": 0,
+      "potassium": 146,
+      "calcium": 111,
+      "iron": 0.18,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（低脂，澳大利亚 德运部分脱脂纯牛奶)": {
+    "per_100g": {
+      "calories": 51,
+      "protein": 3.3,
+      "fat": 2,
+      "carbs": 5,
+      "sodium": 9,
+      "fiber": 0,
+      "potassium": 26.2,
+      "calcium": 116,
+      "iron": 0.16,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（低脂，德国艾德 牧牌部分脱脂纯牛奶)": {
+    "per_100g": {
+      "calories": 45,
+      "protein": 3.5,
+      "fat": 1.7,
+      "carbs": 3.8,
+      "sodium": 9,
+      "fiber": 0,
+      "potassium": 91.8,
+      "calcium": 114,
+      "iron": 0.15,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（低脂，蒙牛特仑 苏低脂牛奶)": {
+    "per_100g": {
+      "calories": 48,
+      "protein": 3.8,
+      "fat": 1.3,
+      "carbs": 5.2,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 358,
+      "calcium": 116,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "纯牛奶（低脂，新西兰安 佳低脂牛奶)": {
+    "per_100g": {
+      "calories": 51,
+      "protein": 3.8,
+      "fat": 1.5,
+      "carbs": 5.5,
+      "sodium": 9,
+      "fiber": 0,
+      "potassium": 18.8,
+      "calcium": 86,
+      "iron": 0.18,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "低脂奶）": {
+    "per_100g": {
+      "calories": 48,
+      "protein": 3.7,
+      "fat": 1.3,
+      "carbs": 5.4,
+      "sodium": 279,
+      "fiber": 0,
+      "potassium": 132,
+      "calcium": 0.01,
+      "iron": 11,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "尔蒙特低脂牛奶）": {
+    "per_100g": {
+      "calories": 45,
+      "protein": 3.4,
+      "fat": 1.4,
+      "carbs": 4.6,
+      "sodium": 132,
+      "fiber": 0,
+      "potassium": 106,
+      "calcium": 0.01,
+      "iron": 9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "澳田脱脂牛奶)": {
+    "per_100g": {
+      "calories": 35,
+      "protein": 3.7,
+      "fat": 0.3,
+      "carbs": 4.3,
+      "sodium": 137,
+      "fiber": 0,
+      "potassium": 97,
+      "calcium": 0,
+      "iron": 16,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "晨曦脱脂纯牛奶）": {
+    "per_100g": {
+      "calories": 39,
+      "protein": 3.5,
+      "fat": 0.3,
+      "carbs": 5.5,
+      "sodium": 369,
+      "fiber": 0,
+      "potassium": 99,
+      "calcium": 0,
+      "iron": 10,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "牧场脱脂牛奶)": {
+    "per_100g": {
+      "calories": 34,
+      "protein": 3.3,
+      "fat": 0.5,
+      "carbs": 4,
+      "sodium": 148,
+      "fiber": 0,
+      "potassium": 92,
+      "calcium": 0.02,
+      "iron": 15,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "佳轻欣脱脂牛奶）": {
+    "per_100g": {
+      "calories": 32,
+      "protein": 3.9,
+      "fat": 0,
+      "carbs": 4.2,
+      "sodium": 142,
+      "fiber": 0,
+      "potassium": 108,
+      "calcium": 0.02,
+      "iron": 10,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "卡夫牌）": {
+    "per_100g": {
+      "calories": 79,
+      "protein": 2.7,
+      "fat": 3,
+      "carbs": 10.3,
+      "sodium": 157,
+      "fiber": 0,
+      "potassium": 83,
+      "calcium": 0,
+      "iron": 9,
+      "vitaminC": 0.09
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "卡夫牌)": {
+    "per_100g": {
+      "calories": 80,
+      "protein": 2.8,
+      "fat": 3.2,
+      "carbs": 10,
+      "sodium": 154,
+      "fiber": 0,
+      "potassium": 92,
+      "calcium": 0,
+      "iron": 13,
+      "vitaminC": 0.12
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "三元牌）": {
+    "per_100g": {
+      "calories": 74,
+      "protein": 2.3,
+      "fat": 2.8,
+      "carbs": 9.9,
+      "sodium": 165,
+      "fiber": 0,
+      "potassium": 75,
+      "calcium": 0,
+      "iron": 12,
+      "vitaminC": 0.09
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "调制乳": {
+    "per_100g": {
+      "calories": 66,
+      "protein": 2.6,
+      "fat": 2.6,
+      "carbs": 8.1,
+      "sodium": 140,
+      "fiber": 0,
+      "potassium": 78,
+      "calcium": 0,
+      "iron": 8,
+      "vitaminC": 0.06
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "核桃牛奶）": {
+    "per_100g": {
+      "calories": 62,
+      "protein": 2.5,
+      "fat": 2.8,
+      "carbs": 6.6,
+      "sodium": 82,
+      "fiber": 0,
+      "potassium": 91,
+      "calcium": 0,
+      "iron": 14,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "苏醇纤牛奶)": {
+    "per_100g": {
+      "calories": 72,
+      "protein": 3.4,
+      "fat": 4,
+      "carbs": 5.5,
+      "sodium": 258,
+      "fiber": 0,
+      "potassium": 107,
+      "calcium": 0.02,
+      "iron": 9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "型零乳糖牛奶）": {
+    "per_100g": {
+      "calories": 60,
+      "protein": 3,
+      "fat": 3.5,
+      "carbs": 4,
+      "sodium": 115,
+      "fiber": 0,
+      "potassium": 102,
+      "calcium": 0.02,
+      "iron": 8,
+      "vitaminC": 90
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "醇牛奶)": {
+    "per_100g": {
+      "calories": 69,
+      "protein": 3.4,
+      "fat": 3.7,
+      "carbs": 5.4,
+      "sodium": 193.1,
+      "fiber": 0,
+      "potassium": 119,
+      "calcium": 138,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "调制乳（全脂，新希望特 浓牛奶)": {
+    "per_100g": {
+      "calories": 66,
+      "protein": 3.3,
+      "fat": 3.5,
+      "carbs": 5.4,
+      "sodium": 21.6,
+      "fiber": 0,
+      "potassium": 216,
+      "calcium": 110,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "调制乳（全脂，伊利早餐 奶麦香味)": {
+    "per_100g": {
+      "calories": 71,
+      "protein": 2.9,
+      "fat": 3.2,
+      "carbs": 7.6,
+      "sodium": 72.3,
+      "fiber": 0,
+      "potassium": 75,
+      "calcium": 105,
+      "iron": 0.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "调制乳（低脂，澳大利亚 德运高钙低脂奶)": {
+    "per_100g": {
+      "calories": 52,
+      "protein": 3.5,
+      "fat": 1.1,
+      "carbs": 7.1,
+      "sodium": 17.1,
+      "fiber": 0,
+      "potassium": 171,
+      "calcium": 119,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜牛奶": {
+    "per_100g": {
+      "calories": 67,
+      "protein": 3.4,
+      "fat": 3.7,
+      "carbs": 5.1,
+      "sodium": 120.3,
+      "fiber": 0,
+      "potassium": 127,
+      "calcium": 113,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜牛奶（全脂，现代牧场 鲜牛奶)": {
+    "per_100g": {
+      "calories": 64,
+      "protein": 3.4,
+      "fat": 3.6,
+      "carbs": 4.5,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 108.7,
+      "calcium": 126,
+      "iron": 0.21,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜牛奶（全脂，新希望千 岛湖牧场鲜牛奶)": {
+    "per_100g": {
+      "calories": 76,
+      "protein": 3.6,
+      "fat": 3.9,
+      "carbs": 6.7,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 108.2,
+      "calcium": 118,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "羊乳": {
+    "per_100g": {
+      "calories": 59,
+      "protein": 1.5,
+      "fat": 3.5,
+      "carbs": 5.4,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 20.6,
+      "calcium": 98,
+      "iron": 0.29,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "人乳": {
+    "per_100g": {
+      "calories": 65,
+      "protein": 1.3,
+      "fat": 3.4,
+      "carbs": 7.4,
+      "sodium": 32,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 13,
+      "iron": 0.28,
+      "vitaminC": 5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "人乳（初乳，～天)": {
+    "per_100g": {
+      "calories": 68,
+      "protein": 2.2,
+      "fat": 3.8,
+      "carbs": 6.2,
+      "sodium": 3,
+      "fiber": 0,
+      "potassium": 33.1,
+      "calcium": 16,
+      "iron": 0.53,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜驴奶": {
+    "per_100g": {
+      "calories": 33,
+      "protein": 0.4,
+      "fat": 0.6,
+      "carbs": 6.5,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 23.9,
+      "calcium": 37,
+      "iron": 0.21,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鲜驼奶": {
+    "per_100g": {
+      "calories": 72,
+      "protein": 3.7,
+      "fat": 3.5,
+      "carbs": 6.5,
+      "sodium": 10,
+      "fiber": 0,
+      "potassium": 55.9,
+      "calcium": 60,
+      "iron": 0.51,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "驼奶": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 3.9,
+      "fat": 4.6,
+      "carbs": 6,
+      "sodium": 33,
+      "fiber": 0,
+      "potassium": 39.5,
+      "calcium": 75,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸奶": {
+    "per_100g": {
+      "calories": 72,
+      "protein": 3.1,
+      "fat": 3.2,
+      "carbs": 8.3
+    },
+    "unit": "杯",
+    "unit_weight": 200
+  },
+  "酸奶  酸奶（全脂，多美鲜全脂果": {
+    "per_100g": {
+      "calories": 98,
+      "protein": 3.3,
+      "fat": 2.9,
+      "carbs": 14.6,
+      "sodium": 53.8,
+      "fiber": 0,
+      "potassium": 241,
+      "calcium": 61,
+      "iron": 0.1,
+      "vitaminC": 1
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "粒，草莓果粒/覆盆子果粒、 桃果粒/西番莲汁/菠萝果粒)": {
+    "per_100g": {
+      "calories": 111,
+      "protein": 1.6,
+      "fat": 2.8,
+      "carbs": 19.9,
+      "sodium": 37.8,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 94,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸奶（全脂，盖瑞牌，全 脂风味发酵乳)": {
+    "per_100g": {
+      "calories": 93,
+      "protein": 3.1,
+      "fat": 2.5,
+      "carbs": 14.6,
+      "sodium": 26.9,
+      "fiber": 0,
+      "potassium": 109,
+      "calcium": 126,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸奶（全脂，佳丽牌，益 家全脂风味发酵乳)": {
+    "per_100g": {
+      "calories": 95,
+      "protein": 2.9,
+      "fat": 3.1,
+      "carbs": 13.8,
+      "sodium": 34.5,
+      "fiber": 0,
+      "potassium": 162,
+      "calcium": 128,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸奶（全脂，西域春牌新 疆老酸奶，凝固型)": {
+    "per_100g": {
+      "calories": 96,
+      "protein": 3.1,
+      "fat": 2.6,
+      "carbs": 15.1,
+      "sodium": 27.8,
+      "fiber": 0,
+      "potassium": 90,
+      "calcium": 100,
+      "iron": 0.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶酪[干酪］": {
+    "per_100g": {
+      "calories": 328,
+      "protein": 23.5,
+      "fat": 3.5,
+      "carbs": 0,
+      "sodium": 57,
+      "fiber": 11,
+      "potassium": 584.6,
+      "calcium": 326,
+      "iron": 6.97,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶豆腐": {
+    "per_100g": {
+      "calories": 343,
+      "protein": 53.7,
+      "fat": 26.5,
+      "carbs": 0,
+      "sodium": 25,
+      "fiber": 36,
+      "potassium": 55.4,
+      "calcium": 773,
+      "iron": 1.81,
+      "vitaminC": 1
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶疙瘩「奶酪干，干酸奶]": {
+    "per_100g": {
+      "calories": 426,
+      "protein": 55.1,
+      "fat": 15,
+      "carbs": 17.7,
+      "sodium": 79.3,
+      "fiber": 0,
+      "potassium": 314,
+      "calcium": 730,
+      "iron": 18.7,
+      "vitaminC": 2
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "乳酪": {
+    "per_100g": {
+      "calories": 412,
+      "protein": 25.5,
+      "fat": 34.4,
+      "carbs": 0.1,
+      "sodium": 670,
+      "fiber": 0,
+      "potassium": 77,
+      "calcium": 720,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "曲拉": {
+    "per_100g": {
+      "calories": 356,
+      "protein": 39.1,
+      "fat": 2.9,
+      "carbs": 43.4,
+      "sodium": 285.2,
+      "fiber": 0,
+      "potassium": 166,
+      "calcium": 1217,
+      "iron": 5.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸酪蛋": {
+    "per_100g": {
+      "calories": 443,
+      "protein": 40.4,
+      "fat": 20.4,
+      "carbs": 24.4,
+      "sodium": 130.8,
+      "fiber": 0,
+      "potassium": 512,
+      "calcium": 756,
+      "iron": 20.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶酪": {
+    "per_100g": {
+      "calories": 328,
+      "protein": 25,
+      "fat": 26,
+      "carbs": 2.5
+    },
+    "unit": "片",
+    "unit_weight": 30
+  },
+  "低脂奶酪": {
+    "per_100g": {
+      "calories": 241,
+      "protein": 21.6,
+      "fat": 11.6,
+      "carbs": 12.6,
+      "sodium": 1684.8,
+      "fiber": 0,
+      "potassium": 368,
+      "calcium": 522,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "硬质干酪": {
+    "per_100g": {
+      "calories": 411,
+      "protein": 24.9,
+      "fat": 34.5,
+      "carbs": 0.1,
+      "sodium": 687,
+      "fiber": 0,
+      "potassium": 76,
+      "calcium": 731,
+      "iron": 0.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶酪（爱氏晨曦牌，儿童 奶酪条)": {
+    "per_100g": {
+      "calories": 295,
+      "protein": 23.9,
+      "fat": 22.1,
+      "carbs": 0,
+      "sodium": 1408.1,
+      "fiber": 0,
+      "potassium": 66,
+      "calcium": 286,
+      "iron": 0.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "奶酪（多美鲜牌，欧洲奶 油奶酪)": {
+    "per_100g": {
+      "calories": 356,
+      "protein": 13.1,
+      "fat": 23.4,
+      "carbs": 23.2,
+      "sodium": 845.8,
+      "fiber": 0,
+      "potassium": 196,
+      "calcium": 170,
+      "iron": 0.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "酸奶疙瘩": {
+    "per_100g": {
+      "calories": 446,
+      "protein": 48.8,
+      "fat": 18.6,
+      "carbs": 20.9,
+      "sodium": 248,
+      "fiber": 0,
+      "potassium": 566,
+      "calcium": 437,
+      "iron": 1.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "全脂奶粉 (代表值）": {
+    "per_100g": {
+      "calories": 482,
+      "protein": 19.9,
+      "fat": 22.3,
+      "carbs": 50.5,
+      "sodium": 65,
+      "fiber": 0,
+      "potassium": 352,
+      "calcium": 513,
+      "iron": 3.93,
+      "vitaminC": 23.6
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "全脂奶粉": {
+    "per_100g": {
+      "calories": 484,
+      "protein": 19.9,
+      "fat": 22.7,
+      "carbs": 49.9,
+      "sodium": 22,
+      "fiber": 0,
+      "potassium": 567.8,
+      "calcium": 0,
+      "iron": 3.71,
+      "vitaminC": 9
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "全脂奶粉（雪花钙加锌调 制奶粉)": {
+    "per_100g": {
+      "calories": 461,
+      "protein": 17,
+      "fat": 19,
+      "carbs": 55.5,
+      "sodium": 350,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 1000,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "全脂甜奶粉": {
+    "per_100g": {
+      "calories": 485,
+      "protein": 20.2,
+      "fat": 22.9,
+      "carbs": 49.6,
+      "sodium": 353,
+      "fiber": 0,
+      "potassium": 1318,
+      "calcium": 558,
+      "iron": 2.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "全脂甜奶粉（红星速溶全 脂甜奶粉)": {
+    "per_100g": {
+      "calories": 481,
+      "protein": 18.5,
+      "fat": 23,
+      "carbs": 50,
+      "sodium": 380,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 0,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "低脂奶粉": {
+    "per_100g": {
+      "calories": 425,
+      "protein": 23.7,
+      "fat": 11.9,
+      "carbs": 55.9,
+      "sodium": 378.5,
+      "fiber": 0,
+      "potassium": 1154,
+      "calcium": 1365,
+      "iron": 10.3,
+      "vitaminC": 55
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "驴奶粉": {
+    "per_100g": {
+      "calories": 442,
+      "protein": 20.1,
+      "fat": 12.4,
+      "carbs": 62.4,
+      "sodium": 333,
+      "fiber": 0,
+      "potassium": 857,
+      "calcium": 775,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "驴奶粉 (金驴龙奶）": {
+    "per_100g": {
+      "calories": 416,
+      "protein": 14.8,
+      "fat": 8.2,
+      "carbs": 70.8,
+      "sodium": 292,
+      "fiber": 0,
+      "potassium": 638,
+      "calcium": 720,
+      "iron": 0.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "驼奶粉": {
+    "per_100g": {
+      "calories": 528,
+      "protein": 20.2,
+      "fat": 43.4,
+      "carbs": 0,
+      "sodium": 50,
+      "fiber": 83,
+      "potassium": 519,
+      "calcium": 328,
+      "iron": 2.95,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉": {
+    "per_100g": {
+      "calories": 454,
+      "protein": 19,
+      "fat": 17.3,
+      "carbs": 1.1,
+      "sodium": 50,
+      "fiber": 0,
+      "potassium": 317.3,
+      "calcium": 493,
+      "iron": 5.75,
+      "vitaminC": 38.6
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（适体健， 美赞臣)": {
+    "per_100g": {
+      "calories": 417,
+      "protein": 16,
+      "fat": 68,
+      "carbs": 0,
+      "sodium": 60,
+      "fiber": 0,
+      "potassium": 250,
+      "calcium": 500,
+      "iron": 4.4,
+      "vitaminC": 38
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（贝因美特 选幼童配方奶粉阶段)": {
+    "per_100g": {
+      "calories": 473,
+      "protein": 18,
+      "fat": 56.6,
+      "carbs": 0.6,
+      "sodium": 38,
+      "fiber": 0,
+      "potassium": 330,
+      "calcium": 0,
+      "iron": 6.3,
+      "vitaminC": 17.5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（惠氏金装 学儿乐学龄前儿童配方奶粉)": {
+    "per_100g": {
+      "calories": 442,
+      "protein": 17,
+      "fat": 58.9,
+      "carbs": 3,
+      "sodium": 53,
+      "fiber": 0,
+      "potassium": 234,
+      "calcium": 405,
+      "iron": 5.41,
+      "vitaminC": 15.3
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（欧世蒙牛 金装佳智学龄前儿童特殊配 方奶粉阶段)": {
+    "per_100g": {
+      "calories": 470,
+      "protein": 17.9,
+      "fat": 20.9,
+      "carbs": 52.5,
+      "sodium": 54,
+      "fiber": 0,
+      "potassium": 250,
+      "calcium": 400,
+      "iron": 5.8,
+      "vitaminC": 32.4
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（三元爱益 儿童成长配方奶粉)": {
+    "per_100g": {
+      "calories": 500,
+      "protein": 20,
+      "fat": 20,
+      "carbs": 60,
+      "sodium": 25,
+      "fiber": 0,
+      "potassium": 600,
+      "calcium": 500,
+      "iron": 0,
+      "vitaminC": 50
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（完达山金 装元乳段儿童奶粉)": {
+    "per_100g": {
+      "calories": 1954,
+      "protein": 19.8,
+      "fat": 54.8,
+      "carbs": 0,
+      "sodium": 0,
+      "fiber": 0.9,
+      "potassium": 348,
+      "calcium": 450,
+      "iron": 8.25,
+      "vitaminC": 44.7
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "儿童配方奶粉（伊利金领 冠儿童配方奶粉)": {
+    "per_100g": {
+      "calories": 467,
+      "protein": 21.5,
+      "fat": 20,
+      "carbs": 50.6,
+      "sodium": 38,
+      "fiber": 0.6,
+      "potassium": 375,
+      "calcium": 550,
+      "iron": 7.1,
+      "vitaminC": 20
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉": {
+    "per_100g": {
+      "calories": 413,
+      "protein": 22,
+      "fat": 9.8,
+      "carbs": 60.5,
+      "sodium": 88,
+      "fiber": 2.9,
+      "potassium": 334.5,
+      "calcium": 541,
+      "iron": 7.59,
+      "vitaminC": 95.6
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（贝因美 金装爱+准妈咪配方奶粉)": {
+    "per_100g": {
+      "calories": 426,
+      "protein": 22.5,
+      "fat": 10,
+      "carbs": 61.5,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 0,
+      "iron": 4,
+      "vitaminC": 37.5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（亨氏超 金妈妈孕产妇配方奶粉)": {
+    "per_100g": {
+      "calories": 398,
+      "protein": 26,
+      "fat": 8,
+      "carbs": 57,
+      "sodium": 120,
+      "fiber": 3,
+      "potassium": 300,
+      "calcium": 790,
+      "iron": 6.5,
+      "vitaminC": 100
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（美素佳 儿GOLD金装妈妈孕产妇 配方奶粉)": {
+    "per_100g": {
+      "calories": 454,
+      "protein": 27,
+      "fat": 17.5,
+      "carbs": 47.1,
+      "sodium": 160,
+      "fiber": 0,
+      "potassium": 240,
+      "calcium": 680,
+      "iron": 3,
+      "vitaminC": 120
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（雀巢妈 妈孕产妇奶粉)": {
+    "per_100g": {
+      "calories": 407,
+      "protein": 20,
+      "fat": 6.5,
+      "carbs": 67,
+      "sodium": 62,
+      "fiber": 0,
+      "potassium": 270,
+      "calcium": 540,
+      "iron": 8.8,
+      "vitaminC": 100
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（圣元优 博妈咪孕产妇配方奶粉)": {
+    "per_100g": {
+      "calories": 440,
+      "protein": 22,
+      "fat": 16,
+      "carbs": 0,
+      "sodium": 40,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 400,
+      "iron": 8,
+      "vitaminC": 100
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（雅培妈妈 喜康素金装孕产妇配方奶粉)": {
+    "per_100g": {
+      "calories": 367,
+      "protein": 23.1,
+      "fat": 66,
+      "carbs": 3.7,
+      "sodium": 210,
+      "fiber": 0,
+      "potassium": 300,
+      "calcium": 590,
+      "iron": 11.2,
+      "vitaminC": 62
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方奶粉（雅士利 能慧金装孕产妇奶粉)": {
+    "per_100g": {
+      "calories": 425,
+      "protein": 20.6,
+      "fat": 59,
+      "carbs": 3,
+      "sodium": 62,
+      "fiber": 0,
+      "potassium": 300,
+      "calcium": 600,
+      "iron": 3.75,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "孕产妇配方羊奶粉（美可 高特孕产妇配方羊奶粉)": {
+    "per_100g": {
+      "calories": 447,
+      "protein": 22,
+      "fat": 54.9,
+      "carbs": 0,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 482,
+      "calcium": 0,
+      "iron": 4.94,
+      "vitaminC": 80
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "中老年配方奶粉": {
+    "per_100g": {
+      "calories": 424,
+      "protein": 21.8,
+      "fat": 12.8,
+      "carbs": 0,
+      "sodium": 58,
+      "fiber": 0.9,
+      "potassium": 427.5,
+      "calcium": 630,
+      "iron": 4.75,
+      "vitaminC": 55.5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "中老年配方奶粉（三元爱 益中老年配方奶粉)": {
+    "per_100g": {
+      "calories": 448,
+      "protein": 20,
+      "fat": 13,
+      "carbs": 63,
+      "sodium": 25,
+      "fiber": 0.7,
+      "potassium": 600,
+      "calcium": 500,
+      "iron": 0,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "中老年配方奶粉（雪花中 老年特殊配方奶粉)": {
+    "per_100g": {
+      "calories": 432,
+      "protein": 20,
+      "fat": 13.6,
+      "carbs": 0,
+      "sodium": 45,
+      "fiber": 1,
+      "potassium": 350,
+      "calcium": 0,
+      "iron": 4.2,
+      "vitaminC": 60
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "中老年营养奶粉（雪花中 老年营养奶粉)": {
+    "per_100g": {
+      "calories": 440,
+      "protein": 21,
+      "fat": 14,
+      "carbs": 0,
+      "sodium": 45,
+      "fiber": 1,
+      "potassium": 350,
+      "calcium": 0,
+      "iron": 4.8,
+      "vitaminC": 62
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "白果": {
+    "per_100g": {
+      "calories": 355,
+      "protein": 13.2,
+      "fat": 1.3,
+      "carbs": 72.6,
+      "sodium": 17.5,
+      "fiber": 0,
+      "potassium": 17,
+      "calcium": 54,
+      "iron": 0.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "菠萝蜜": {
+    "per_100g": {
+      "calories": 164,
+      "protein": 4.9,
+      "fat": 0.3,
+      "carbs": 36.7,
+      "sodium": 11.5,
+      "fiber": 2.3,
+      "potassium": 400,
+      "calcium": 18,
+      "iron": 1.6,
+      "vitaminC": 16
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "核桃": {
+    "per_100g": {
+      "calories": 654,
+      "protein": 15.2,
+      "fat": 65.2,
+      "carbs": 13.7
+    },
+    "unit": "个",
+    "unit_weight": 10
+  },
+  "核桃（干)": {
+    "per_100g": {
+      "calories": 646,
+      "protein": 14.9,
+      "fat": 58.8,
+      "carbs": 19.1,
+      "sodium": 6.4,
+      "fiber": 9.5,
+      "potassium": 385,
+      "calcium": 56,
+      "iron": 2.7,
+      "vitaminC": 1
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "毛核桃": {
+    "per_100g": {
+      "calories": 184,
+      "protein": 12,
+      "fat": 6.7,
+      "carbs": 21.7,
+      "sodium": 0,
+      "fiber": 5.4,
+      "potassium": 0,
+      "calcium": 0,
+      "iron": 0,
+      "vitaminC": 40
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "山核桃": {
+    "per_100g": {
+      "calories": 616,
+      "protein": 18,
+      "fat": 50.4,
+      "carbs": 26.2,
+      "sodium": 250.7,
+      "fiber": 7.4,
+      "potassium": 237,
+      "calcium": 57,
+      "iron": 6.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "栗子(鲜）": {
+    "per_100g": {
+      "calories": 188,
+      "protein": 4.2,
+      "fat": 0.7,
+      "carbs": 42.2,
+      "sodium": 13.9,
+      "fiber": 1.7,
+      "potassium": 442,
+      "calcium": 17,
+      "iron": 1.1,
+      "vitaminC": 24
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "栗子": {
+    "per_100g": {
+      "calories": 348,
+      "protein": 5.3,
+      "fat": 1.7,
+      "carbs": 78.4,
+      "sodium": 8.5,
+      "fiber": 1.2,
+      "potassium": 0,
+      "calcium": 0,
+      "iron": 1.2,
+      "vitaminC": 25
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "栗子(熟）": {
+    "per_100g": {
+      "calories": 214,
+      "protein": 4.8,
+      "fat": 1.5,
+      "carbs": 46,
+      "sodium": 0,
+      "fiber": 1.2,
+      "potassium": 0,
+      "calcium": 15,
+      "iron": 1.7,
+      "vitaminC": 36
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "松子": {
+    "per_100g": {
+      "calories": 665,
+      "protein": 12.6,
+      "fat": 62.6,
+      "carbs": 19,
+      "sodium": 0,
+      "fiber": 12.4,
+      "potassium": 184,
+      "calcium": 3,
+      "iron": 5.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "松子仁": {
+    "per_100g": {
+      "calories": 718,
+      "protein": 13.4,
+      "fat": 70.6,
+      "carbs": 12.2,
+      "sodium": 10.1,
+      "fiber": 10,
+      "potassium": 502,
+      "calcium": 78,
+      "iron": 4.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "杏仁": {
+    "per_100g": {
+      "calories": 579,
+      "protein": 21.2,
+      "fat": 49.9,
+      "carbs": 21.6
+    },
+    "unit": "把",
+    "unit_weight": 30
+  },
+  "杏仁 (烤干，不加盐）": {
+    "per_100g": {
+      "calories": 617,
+      "protein": 22.1,
+      "fat": 52.8,
+      "carbs": 19.3,
+      "sodium": 1,
+      "fiber": 11.8,
+      "potassium": 746,
+      "calcium": 266,
+      "iron": 4.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "橡实": {
+    "per_100g": {
+      "calories": 233,
+      "protein": 4,
+      "fat": 2,
+      "carbs": 50.5,
+      "sodium": 0,
+      "fiber": 1.3,
+      "potassium": 0,
+      "calcium": 112,
+      "iron": 5.8,
+      "vitaminC": 7
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "榛子": {
+    "per_100g": {
+      "calories": 561,
+      "protein": 20,
+      "fat": 44.8,
+      "carbs": 24.3,
+      "sodium": 4.7,
+      "fiber": 9.6,
+      "potassium": 1244,
+      "calcium": 104,
+      "iron": 6.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "栗子[板栗】": {
+    "per_100g": {
+      "calories": 192,
+      "protein": 4.4,
+      "fat": 1.4,
+      "carbs": 3.1,
+      "sodium": 0,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 19,
+      "iron": 0,
+      "vitaminC": 24.2
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "栗子仁": {
+    "per_100g": {
+      "calories": 194,
+      "protein": 4.5,
+      "fat": 1.5,
+      "carbs": 0,
+      "sodium": 468,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 9,
+      "iron": 52,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "松子(熟）": {
+    "per_100g": {
+      "calories": 553,
+      "protein": 12.9,
+      "fat": 40.4,
+      "carbs": 0,
+      "sodium": 1007,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 14,
+      "iron": 272,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "腰果": {
+    "per_100g": {
+      "calories": 553,
+      "protein": 18.2,
+      "fat": 43.9,
+      "carbs": 30.2
+    },
+    "unit": "把",
+    "unit_weight": 30
+  },
+  "榛子仁": {
+    "per_100g": {
+      "calories": 628,
+      "protein": 15.6,
+      "fat": 52.9,
+      "carbs": 0,
+      "sodium": 807,
+      "fiber": 0,
+      "potassium": 0,
+      "calcium": 86,
+      "iron": 168,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "开心果": {
+    "per_100g": {
+      "calories": 631,
+      "protein": 20.6,
+      "fat": 53,
+      "carbs": 8.2,
+      "sodium": 735,
+      "fiber": 0,
+      "potassium": 468,
+      "calcium": 108,
+      "iron": 118,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "香框": {
+    "per_100g": {
+      "calories": 644,
+      "protein": 12.4,
+      "fat": 57,
+      "carbs": 0,
+      "sodium": 664,
+      "fiber": 0,
+      "potassium": 248,
+      "calcium": 0,
+      "iron": 291,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "胡麻子": {
+    "per_100g": {
+      "calories": 450,
+      "protein": 19.1,
+      "fat": 30.7,
+      "carbs": 39.5,
+      "sodium": 48.8,
+      "fiber": 30.2,
+      "potassium": 408,
+      "calcium": 228,
+      "iron": 19.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "花生［落花生，长生果】.": {
+    "per_100g": {
+      "calories": 313,
+      "protein": 12,
+      "fat": 25.4,
+      "carbs": 13,
+      "sodium": 3.7,
+      "fiber": 7.7,
+      "potassium": 390,
+      "calcium": 8,
+      "iron": 3.4,
+      "vitaminC": 14
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "花生（炒)": {
+    "per_100g": {
+      "calories": 601,
+      "protein": 21.7,
+      "fat": 48,
+      "carbs": 23.8,
+      "sodium": 34.8,
+      "fiber": 6.3,
+      "potassium": 563,
+      "calcium": 47,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "花生仁": {
+    "per_100g": {
+      "calories": 574,
+      "protein": 24.8,
+      "fat": 44.3,
+      "carbs": 21.7,
+      "sodium": 3.6,
+      "fiber": 5.5,
+      "potassium": 587,
+      "calcium": 39,
+      "iron": 2.1,
+      "vitaminC": 2
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "葵花子": {
+    "per_100g": {
+      "calories": 609,
+      "protein": 23.9,
+      "fat": 49.9,
+      "carbs": 19.1,
+      "sodium": 5.5,
+      "fiber": 6.1,
+      "potassium": 562,
+      "calcium": 72,
+      "iron": 5.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "葵花子仁": {
+    "per_100g": {
+      "calories": 615,
+      "protein": 19.1,
+      "fat": 53.4,
+      "carbs": 16.7,
+      "sodium": 5,
+      "fiber": 4.5,
+      "potassium": 547,
+      "calcium": 115,
+      "iron": 2.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "莲子": {
+    "per_100g": {
+      "calories": 350,
+      "protein": 17.2,
+      "fat": 2,
+      "carbs": 67.2,
+      "sodium": 5.1,
+      "fiber": 3,
+      "potassium": 846,
+      "calcium": 97,
+      "iron": 3.6,
+      "vitaminC": 5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "南瓜子": {
+    "per_100g": {
+      "calories": 582,
+      "protein": 36,
+      "fat": 46.1,
+      "carbs": 7.9,
+      "sodium": 15.8,
+      "fiber": 4.1,
+      "potassium": 672,
+      "calcium": 37,
+      "iron": 6.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "南瓜子仁": {
+    "per_100g": {
+      "calories": 576,
+      "protein": 33.2,
+      "fat": 48.1,
+      "carbs": 4.9,
+      "sodium": 20.6,
+      "fiber": 4.9,
+      "potassium": 102,
+      "calcium": 16,
+      "iron": 1.5,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "西瓜子(炒）": {
+    "per_100g": {
+      "calories": 582,
+      "protein": 32.7,
+      "fat": 44.8,
+      "carbs": 14.2,
+      "sodium": 187.7,
+      "fiber": 4.5,
+      "potassium": 612,
+      "calcium": 28,
+      "iron": 8.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "西瓜子": {
+    "per_100g": {
+      "calories": 567,
+      "protein": 30.3,
+      "fat": 46.5,
+      "carbs": 13.4,
+      "sodium": 133.7,
+      "fiber": 13.2,
+      "potassium": 516,
+      "calcium": 392,
+      "iron": 4.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "西瓜子仁": {
+    "per_100g": {
+      "calories": 566,
+      "protein": 32.4,
+      "fat": 45.9,
+      "carbs": 8.6,
+      "sodium": 9.4,
+      "fiber": 5.4,
+      "potassium": 186,
+      "calcium": 0,
+      "iron": 4.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "芝麻子（白)": {
+    "per_100g": {
+      "calories": 536,
+      "protein": 18.4,
+      "fat": 39.6,
+      "carbs": 31.5,
+      "sodium": 32.2,
+      "fiber": 9.8,
+      "potassium": 266,
+      "calcium": 620,
+      "iron": 14.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "芝麻子": {
+    "per_100g": {
+      "calories": 559,
+      "protein": 19.1,
+      "fat": 46.1,
+      "carbs": 24,
+      "sodium": 8.3,
+      "fiber": 14,
+      "potassium": 358,
+      "calcium": 780,
+      "iron": 22.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "芡实米": {
+    "per_100g": {
+      "calories": 145,
+      "protein": 4.4,
+      "fat": 0.2,
+      "carbs": 31.5,
+      "sodium": 0,
+      "fiber": 0.4,
+      "potassium": 0,
+      "calcium": 9,
+      "iron": 0.4,
+      "vitaminC": 6
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "花生": {
+    "per_100g": {
+      "calories": 567,
+      "protein": 25.8,
+      "fat": 49.2,
+      "carbs": 16.1
+    },
+    "unit": "把",
+    "unit_weight": 30
+  },
+  "南瓜子(熟）": {
+    "per_100g": {
+      "calories": 615,
+      "protein": 26.6,
+      "fat": 52.8,
+      "carbs": 12.9,
+      "sodium": 145.1,
+      "fiber": 9.1,
+      "potassium": 610,
+      "calcium": 26,
+      "iron": 9.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蜂蛹［蜂胚、蜂仔］": {
+    "per_100g": {
+      "calories": 100,
+      "protein": 10.6,
+      "fat": 5.4,
+      "carbs": 2.3,
+      "sodium": 12,
+      "fiber": 0,
+      "potassium": 249,
+      "calcium": 1,
+      "iron": 2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蜂蛹": {
+    "per_100g": {
+      "calories": 669,
+      "protein": 20,
+      "fat": 61.4,
+      "carbs": 9,
+      "sodium": 299.3,
+      "fiber": 0,
+      "potassium": 331,
+      "calcium": 38,
+      "iron": 9.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "牛蛙": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 15.7,
+      "fat": 0.5,
+      "carbs": 3.4,
+      "sodium": 34.5,
+      "fiber": 0,
+      "potassium": 329,
+      "calcium": 15,
+      "iron": 0.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡内金": {
+    "per_100g": {
+      "calories": 359,
+      "protein": 83.1,
+      "fat": 1.3,
+      "carbs": 3.8,
+      "sodium": 112.9,
+      "fiber": 0,
+      "potassium": 51,
+      "calcium": 141,
+      "iron": 64.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "乌梢蛇": {
+    "per_100g": {
+      "calories": 219,
+      "protein": 49.4,
+      "fat": 2,
+      "carbs": 0.9,
+      "sodium": 385,
+      "fiber": 0,
+      "potassium": 494,
+      "calcium": 7345,
+      "iron": 15.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "团螺": {
+    "per_100g": {
+      "calories": 365,
+      "protein": 70.2,
+      "fat": 6.6,
+      "carbs": 6.2,
+      "sodium": 143.3,
+      "fiber": 0,
+      "potassium": 594,
+      "calcium": 617,
+      "iron": 272,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "阿胶": {
+    "per_100g": {
+      "calories": 383,
+      "protein": 73,
+      "fat": 5.8,
+      "carbs": 9.5,
+      "sodium": 222.5,
+      "fiber": 0,
+      "potassium": 5,
+      "calcium": 59,
+      "iron": 4.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "珍珠": {
+    "per_100g": {
+      "calories": 18,
+      "protein": 2,
+      "fat": 0.1,
+      "carbs": 2.4,
+      "sodium": 285.9,
+      "fiber": 0,
+      "potassium": 1,
+      "calcium": 39,
+      "iron": 33.4,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "牛黄": {
+    "per_100g": {
+      "calories": 353,
+      "protein": 48,
+      "fat": 0.9,
+      "carbs": 38.4,
+      "sodium": 869,
+      "fiber": 0,
+      "potassium": 75,
+      "calcium": 2406,
+      "iron": 8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "马鹿胎": {
+    "per_100g": {
+      "calories": 342,
+      "protein": 36.8,
+      "fat": 10.8,
+      "carbs": 24.4,
+      "sodium": 542.7,
+      "fiber": 0,
+      "potassium": 373,
+      "calcium": 8787,
+      "iron": 27.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "燕窝": {
+    "per_100g": {
+      "calories": 320,
+      "protein": 57.9,
+      "fat": 0.2,
+      "carbs": 21.7,
+      "sodium": 1041.1,
+      "fiber": 0,
+      "potassium": 16,
+      "calcium": 681,
+      "iron": 1.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "蛤蟆油": {
+    "per_100g": {
+      "calories": 241,
+      "protein": 31.4,
+      "fat": 1.9,
+      "carbs": 24.6,
+      "sodium": 251.6,
+      "fiber": 0,
+      "potassium": 717,
+      "calcium": 86,
+      "iron": 3.7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "龟甲": {
+    "per_100g": {
+      "calories": 134,
+      "protein": 26.4,
+      "fat": 2,
+      "carbs": 2.6,
+      "sodium": 457.5,
+      "fiber": 0,
+      "potassium": 19,
+      "calcium": 2778,
+      "iron": 20.1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "刺猬皮": {
+    "per_100g": {
+      "calories": 357,
+      "protein": 69.2,
+      "fat": 8.6,
+      "carbs": 0.8,
+      "sodium": 285.9,
+      "fiber": 0,
+      "potassium": 404,
+      "calcium": 967,
+      "iron": 92.9,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "裙边": {
+    "per_100g": {
+      "calories": 337,
+      "protein": 81.6,
+      "fat": 1.2,
+      "carbs": 0,
+      "sodium": 317.5,
+      "fiber": 0,
+      "potassium": 84,
+      "calcium": 154,
+      "iron": 33.6,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼肚": {
+    "per_100g": {
+      "calories": 312,
+      "protein": 75.6,
+      "fat": 1,
+      "carbs": 0,
+      "sodium": 11.7,
+      "fiber": 0,
+      "potassium": 1,
+      "calcium": 34,
+      "iron": 7,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鱼唇": {
+    "per_100g": {
+      "calories": 347,
+      "protein": 83.1,
+      "fat": 1.6,
+      "carbs": 0,
+      "sodium": 177.9,
+      "fiber": 0,
+      "potassium": 60,
+      "calcium": 282,
+      "iron": 10.3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "盐": {
+    "per_100g": {
+      "calories": 0
+    },
+    "unit": "勺",
+    "unit_weight": 5
+  },
+  "生抽": {
+    "per_100g": {
+      "calories": 53,
+      "protein": 8.1,
+      "fat": 0.1,
+      "carbs": 4.9
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "老抽": {
+    "per_100g": {
+      "calories": 53,
+      "protein": 8.1,
+      "fat": 0.1,
+      "carbs": 4.9
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "料酒": {
+    "per_100g": {
+      "calories": 76,
+      "protein": 0.6,
+      "fat": 0,
+      "carbs": 4.3
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "黄酒": {
+    "per_100g": {
+      "calories": 76,
+      "protein": 0.6,
+      "fat": 0,
+      "carbs": 4.3
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "食用油": {
+    "per_100g": {
+      "calories": 899,
+      "protein": 0,
+      "fat": 99.9,
+      "carbs": 0
+    },
+    "unit": "勺",
+    "unit_weight": 10
+  },
+  "香油": {
+    "per_100g": {
+      "calories": 898,
+      "protein": 0,
+      "fat": 100,
+      "carbs": 0
+    },
+    "unit": "勺",
+    "unit_weight": 5
+  },
+  "白糖": {
+    "per_100g": {
+      "calories": 387,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 100
+    },
+    "unit": "勺",
+    "unit_weight": 10
+  },
+  "冰糖": {
+    "per_100g": {
+      "calories": 387,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 100
+    },
+    "unit": "g",
+    "unit_weight": 10
+  },
+  "糖": {
+    "per_100g": {
+      "calories": 387,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 100
+    },
+    "unit": "勺",
+    "unit_weight": 10
+  },
+  "味精": {
+    "per_100g": {
+      "calories": 253,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0
+    },
+    "unit": "勺",
+    "unit_weight": 3
+  },
+  "鸡精": {
+    "per_100g": {
+      "calories": 265,
+      "protein": 30,
+      "fat": 3,
+      "carbs": 30
+    },
+    "unit": "勺",
+    "unit_weight": 5
+  },
+  "酱油": {
+    "per_100g": {
+      "calories": 53,
+      "protein": 8.1,
+      "fat": 0.1,
+      "carbs": 4.9
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "醋": {
+    "per_100g": {
+      "calories": 31,
+      "protein": 2.1,
+      "fat": 0,
+      "carbs": 6.5
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "蚝油": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 6,
+      "fat": 0.5,
+      "carbs": 22
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "淀粉": {
+    "per_100g": {
+      "calories": 343,
+      "protein": 0.5,
+      "fat": 0.1,
+      "carbs": 85
+    },
+    "unit": "勺",
+    "unit_weight": 10
+  },
+  "面粉": {
+    "per_100g": {
+      "calories": 364,
+      "protein": 10,
+      "fat": 1,
+      "carbs": 76
+    },
+    "unit": "勺",
+    "unit_weight": 25
+  },
+  "普通面粉": {
+    "per_100g": {
+      "calories": 364,
+      "protein": 10,
+      "fat": 1,
+      "carbs": 76
+    },
+    "unit": "勺",
+    "unit_weight": 25
+  },
+  "全麦面粉": {
+    "per_100g": {
+      "calories": 340,
+      "protein": 13,
+      "fat": 2.5,
+      "carbs": 72
+    },
+    "unit": "勺",
+    "unit_weight": 25
+  },
+  "米饭": {
+    "per_100g": {
+      "calories": 116,
+      "protein": 2.6,
+      "fat": 0.3,
+      "carbs": 25.9
+    },
+    "unit": "碗",
+    "unit_weight": 150
+  },
+  "粥": {
+    "per_100g": {
+      "calories": 46,
+      "protein": 1.1,
+      "fat": 0.2,
+      "carbs": 10
+    },
+    "unit": "碗",
+    "unit_weight": 250
+  },
+  "面条": {
+    "per_100g": {
+      "calories": 110,
+      "protein": 2.7,
+      "fat": 0.2,
+      "carbs": 24.3
+    },
+    "unit": "碗",
+    "unit_weight": 150
+  },
+  "米粉": {
+    "per_100g": {
+      "calories": 355,
+      "protein": 7.5,
+      "fat": 0.8,
+      "carbs": 79
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "馒头": {
+    "per_100g": {
+      "calories": 223,
+      "protein": 7,
+      "fat": 1.1,
+      "carbs": 47
+    },
+    "unit": "个",
+    "unit_weight": 80
+  },
+  "面包": {
+    "per_100g": {
+      "calories": 265,
+      "protein": 8,
+      "fat": 3.5,
+      "carbs": 51
+    },
+    "unit": "片",
+    "unit_weight": 50
+  },
+  "饺子": {
+    "per_100g": {
+      "calories": 215,
+      "protein": 7.5,
+      "fat": 8.5,
+      "carbs": 27
+    },
+    "unit": "个",
+    "unit_weight": 25
+  },
+  "包子": {
+    "per_100g": {
+      "calories": 230,
+      "protein": 8,
+      "fat": 6.5,
+      "carbs": 36
+    },
+    "unit": "个",
+    "unit_weight": 100
+  },
+  "豆腐": {
+    "per_100g": {
+      "calories": 81,
+      "protein": 8.1,
+      "fat": 3.7,
+      "carbs": 4.2
+    },
+    "unit": "块",
+    "unit_weight": 150
+  },
+  "豆腐干": {
+    "per_100g": {
+      "calories": 145,
+      "protein": 16.2,
+      "fat": 3.6,
+      "carbs": 11.5
+    },
+    "unit": "块",
+    "unit_weight": 50
+  },
+  "豆腐皮": {
+    "per_100g": {
+      "calories": 409,
+      "protein": 44.6,
+      "fat": 17.4,
+      "carbs": 19.2
+    },
+    "unit": "张",
+    "unit_weight": 30
+  },
+  "豆浆": {
+    "per_100g": {
+      "calories": 33,
+      "protein": 3,
+      "fat": 1.6,
+      "carbs": 1.2
+    },
+    "unit": "杯",
+    "unit_weight": 250
+  },
+  "腐竹": {
+    "per_100g": {
+      "calories": 461,
+      "protein": 44.6,
+      "fat": 21.7,
+      "carbs": 22.3
+    },
+    "unit": "根",
+    "unit_weight": 30
+  },
+  "豆芽": {
+    "per_100g": {
+      "calories": 16,
+      "protein": 2,
+      "fat": 0.1,
+      "carbs": 3
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "豆角": {
+    "per_100g": {
+      "calories": 30,
+      "protein": 2,
+      "fat": 0.2,
+      "carbs": 6
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "牛奶": {
+    "per_100g": {
+      "calories": 54,
+      "protein": 3,
+      "fat": 3.2,
+      "carbs": 5
+    },
+    "unit": "杯",
+    "unit_weight": 250
+  },
+  "鸡蛋": {
+    "per_100g": {
+      "calories": 144,
+      "protein": 13.3,
+      "fat": 8.8,
+      "carbs": 2.8
+    },
+    "unit": "个",
+    "unit_weight": 50
+  },
+  "鸭蛋": {
+    "per_100g": {
+      "calories": 180,
+      "protein": 12.6,
+      "fat": 13,
+      "carbs": 3.1
+    },
+    "unit": "个",
+    "unit_weight": 60
+  },
+  "鹌鹑蛋": {
+    "per_100g": {
+      "calories": 160,
+      "protein": 12.8,
+      "fat": 11.1,
+      "carbs": 2.9
+    },
+    "unit": "个",
+    "unit_weight": 10
+  },
+  "蜂蜜": {
+    "per_100g": {
+      "calories": 304,
+      "protein": 0.3,
+      "fat": 0,
+      "carbs": 82
+    },
+    "unit": "勺",
+    "unit_weight": 20
+  },
+  "酵母": {
+    "per_100g": {
+      "calories": 325,
+      "protein": 40,
+      "fat": 7,
+      "carbs": 41
+    },
+    "unit": "勺",
+    "unit_weight": 5
+  },
+  "芝麻": {
+    "per_100g": {
+      "calories": 573,
+      "protein": 18,
+      "fat": 50,
+      "carbs": 23
+    },
+    "unit": "勺",
+    "unit_weight": 10
+  },
+  "瓜子": {
+    "per_100g": {
+      "calories": 597,
+      "protein": 20.8,
+      "fat": 51.5,
+      "carbs": 20
+    },
+    "unit": "把",
+    "unit_weight": 30
+  },
+  "麻酱": {
+    "per_100g": {
+      "calories": 595,
+      "protein": 6,
+      "fat": 52,
+      "carbs": 22
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "八角": {
+    "per_100g": {
+      "calories": 280,
+      "protein": 17.6,
+      "fat": 15.9,
+      "carbs": 35.4
+    },
+    "unit": "个",
+    "unit_weight": 2
+  },
+  "桂皮": {
+    "per_100g": {
+      "calories": 280,
+      "protein": 4,
+      "fat": 1.2,
+      "carbs": 61
+    },
+    "unit": "片",
+    "unit_weight": 3
+  },
+  "香叶": {
+    "per_100g": {
+      "calories": 280,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 55
+    },
+    "unit": "片",
+    "unit_weight": 0.5
+  },
+  "花椒": {
+    "per_100g": {
+      "calories": 250,
+      "protein": 8.7,
+      "fat": 9,
+      "carbs": 35
+    },
+    "unit": "勺",
+    "unit_weight": 3
+  },
+  "胡椒粉": {
+    "per_100g": {
+      "calories": 251,
+      "protein": 10,
+      "fat": 3.3,
+      "carbs": 64
+    },
+    "unit": "勺",
+    "unit_weight": 2
+  },
+  "孜然": {
+    "per_100g": {
+      "calories": 333,
+      "protein": 18,
+      "fat": 15,
+      "carbs": 44
+    },
+    "unit": "勺",
+    "unit_weight": 2
+  },
+  "五香粉": {
+    "per_100g": {
+      "calories": 256,
+      "protein": 9,
+      "fat": 8,
+      "carbs": 50
+    },
+    "unit": "勺",
+    "unit_weight": 3
+  },
+  "辣椒": {
+    "per_100g": {
+      "calories": 40,
+      "protein": 1.9,
+      "fat": 0.4,
+      "carbs": 8.8
+    },
+    "unit": "个",
+    "unit_weight": 30
+  },
+  "辣椒酱": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 2.5,
+      "fat": 2,
+      "carbs": 20
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "豆瓣酱": {
+    "per_100g": {
+      "calories": 178,
+      "protein": 11,
+      "fat": 6.5,
+      "carbs": 19
+    },
+    "unit": "勺",
+    "unit_weight": 20
+  },
+  "老干妈": {
+    "per_100g": {
+      "calories": 505,
+      "protein": 9,
+      "fat": 45,
+      "carbs": 16
+    },
+    "unit": "勺",
+    "unit_weight": 20
+  },
+  "番茄酱": {
+    "per_100g": {
+      "calories": 101,
+      "protein": 2,
+      "fat": 0.5,
+      "carbs": 22.8
+    },
+    "unit": "勺",
+    "unit_weight": 15
+  },
+  "番茄": {
+    "per_100g": {
+      "calories": 15,
+      "protein": 0.9,
+      "fat": 0.2,
+      "carbs": 3.5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "西兰花": {
+    "per_100g": {
+      "calories": 34,
+      "protein": 2.8,
+      "fat": 0.4,
+      "carbs": 7
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "苹果": {
+    "per_100g": {
+      "calories": 52,
+      "protein": 0.3,
+      "fat": 0.2,
+      "carbs": 13.8
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "生姜": {
+    "per_100g": {
+      "calories": 80,
+      "protein": 1.8,
+      "fat": 0.8,
+      "carbs": 17.8
+    },
+    "unit": "块",
+    "unit_weight": 20
+  },
+  "大蒜": {
+    "per_100g": {
+      "calories": 149,
+      "protein": 6.4,
+      "fat": 0.5,
+      "carbs": 33.1
+    },
+    "unit": "瓣",
+    "unit_weight": 5
+  },
+  "葱": {
+    "per_100g": {
+      "calories": 32,
+      "protein": 1.8,
+      "fat": 0.3,
+      "carbs": 7.3
+    },
+    "unit": "根",
+    "unit_weight": 10
+  },
+  "香菜": {
+    "per_100g": {
+      "calories": 23,
+      "protein": 2.1,
+      "fat": 0.4,
+      "carbs": 3.7
+    },
+    "unit": "把",
+    "unit_weight": 20
+  },
+  "迷迭香": {
+    "per_100g": {
+      "calories": 331,
+      "protein": 6,
+      "fat": 15,
+      "carbs": 21
+    },
+    "unit": "勺",
+    "unit_weight": 1
+  },
+  "鸡胸肉": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 24.6,
+      "fat": 1.9,
+      "carbs": 0.6,
+      "sodium": 44.8,
+      "fiber": 0,
+      "potassium": 333,
+      "calcium": 1,
+      "iron": 1,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡腿肉": {
+    "per_100g": {
+      "calories": 146,
+      "protein": 20.2,
+      "fat": 7.2,
+      "carbs": 0,
+      "sodium": 73.6,
+      "fiber": 0,
+      "potassium": 221,
+      "calcium": 0,
+      "iron": 1.8,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸡肉": {
+    "per_100g": {
+      "calories": 256,
+      "protein": 20.3,
+      "fat": 16.8,
+      "carbs": 5.8,
+      "sodium": 62.2,
+      "fiber": 0,
+      "potassium": 275,
+      "calcium": 2,
+      "iron": 1.2,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鸭肉": {
+    "per_100g": {
+      "calories": 360,
+      "protein": 14.3,
+      "fat": 30.9,
+      "carbs": 6.1,
+      "sodium": 61.6,
+      "fiber": 0,
+      "potassium": 109,
+      "calcium": 4,
+      "iron": 3,
+      "vitaminC": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "source": "china-food-composition"
+  },
+  "鹅肉": {
+    "per_100g": {
+      "calories": 175,
+      "protein": 17.9,
+      "fat": 11.8,
+      "carbs": 0
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "猪肉": {
+    "per_100g": {
+      "calories": 242,
+      "protein": 18,
+      "fat": 18,
+      "carbs": 0
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "五花肉": {
+    "per_100g": {
+      "calories": 349,
+      "protein": 13.3,
+      "fat": 32,
+      "carbs": 2
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "猪里脊": {
+    "per_100g": {
+      "calories": 155,
+      "protein": 20.9,
+      "fat": 7.9,
+      "carbs": 0.7
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "排骨": {
+    "per_100g": {
+      "calories": 257,
+      "protein": 16.7,
+      "fat": 20.3,
+      "carbs": 1.2
+    },
+    "unit": "份",
+    "unit_weight": 150
+  },
+  "牛肉": {
+    "per_100g": {
+      "calories": 250,
+      "protein": 26,
+      "fat": 15,
+      "carbs": 0
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "牛肉 (瘦)": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 20.2,
+      "fat": 2.3,
+      "carbs": 1.2
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "牛腩": {
+    "per_100g": {
+      "calories": 168,
+      "protein": 17.1,
+      "fat": 10.9,
+      "carbs": 1.1
+    },
+    "unit": "份",
+    "unit_weight": 150
+  },
+  "羊肉": {
+    "per_100g": {
+      "calories": 206,
+      "protein": 20,
+      "fat": 13,
+      "carbs": 0
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "羊肉 (瘦)": {
+    "per_100g": {
+      "calories": 118,
+      "protein": 20,
+      "fat": 3.9,
+      "carbs": 0.9
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "羊排": {
+    "per_100g": {
+      "calories": 203,
+      "protein": 16.5,
+      "fat": 14.7,
+      "carbs": 0.8
+    },
+    "unit": "份",
+    "unit_weight": 150
+  },
+  "猪肉 (瘦)": {
+    "per_100g": {
+      "calories": 143,
+      "protein": 20.3,
+      "fat": 6.2,
+      "carbs": 1.5
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "猪肉 (肥)": {
+    "per_100g": {
+      "calories": 395,
+      "protein": 13.6,
+      "fat": 37,
+      "carbs": 2.4
+    },
+    "unit": "份",
+    "unit_weight": 100
+  },
+  "火腿": {
+    "per_100g": {
+      "calories": 310,
+      "protein": 16,
+      "fat": 25,
+      "carbs": 3
+    },
+    "unit": "片",
+    "unit_weight": 30
+  },
+  "腊肉": {
+    "per_100g": {
+      "calories": 584,
+      "protein": 12,
+      "fat": 50,
+      "carbs": 5
+    },
+    "unit": "片",
+    "unit_weight": 30
+  },
+  "腊肠": {
+    "per_100g": {
+      "calories": 584,
+      "protein": 12,
+      "fat": 50,
+      "carbs": 5
+    },
+    "unit": "根",
+    "unit_weight": 50
+  },
+  "牛里脊": {
+    "per_100g": {
+      "calories": 152,
+      "protein": 27,
+      "fat": 4.3,
+      "carbs": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "reference_note": "AI自动补充",
+    "source": "ai"
+  },
+  "羊腿肉": {
+    "per_100g": {
+      "calories": 172,
+      "protein": 20.5,
+      "fat": 9.3,
+      "carbs": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "reference_note": "AI自动补充",
+    "source": "ai"
+  },
+  "前腿肉": {
+    "per_100g": {
+      "calories": 143,
+      "protein": 20.5,
+      "fat": 6.2,
+      "carbs": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "reference_note": "AI自动补充",
+    "source": "ai"
+  },
+  "青蛙": {
+    "per_100g": {
+      "calories": 106,
+      "protein": 20.8,
+      "fat": 2.3,
+      "carbs": 0
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "reference_note": "AI自动补充",
+    "source": "ai"
+  },
+  "干辣椒": {
+    "per_100g": {
+      "calories": 318,
+      "protein": 11.7,
+      "fat": 17.3,
+      "carbs": 52.5
+    },
+    "unit": "g",
+    "unit_weight": 100,
+    "reference_note": "AI自动补充",
+    "source": "ai"
+  }
+}

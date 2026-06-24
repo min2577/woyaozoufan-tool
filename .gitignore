@@ -1,0 +1,52 @@
+# Node / build artifacts
+node_modules/
+dist/
+build/
+server/public/*
+!server/public/.gitkeep
+.next/
+.turbo/
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+
+# Local data files (we DO commit recipes.db, but not WAL or inventory reports)
+server/data/*.db-shm
+server/data/*.db-wal
+server/data/inventory_report.json
+server/data/recipe_repair_reports/
+server/data/旧东西/
+server/data/migrate_to_sqlite_test.db
+server/data/woyaozoufan.db
+
+# Logs
+server/logs/
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# Backup / junk directories (not for deploy)
+admin-vue/
+mvp/
+backup*/
+beifen*/
+*beifen*/
+*backup*/
+有点用的垃圾/
+
+
+# Aggressive junk exclusions (appended by deploy)
+*backup*
+*.backup
+*.bak
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+server/旧东西/

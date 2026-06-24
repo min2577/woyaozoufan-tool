@@ -1,0 +1,592 @@
+openapi: 3.0.3
+info:
+  title: 我要揍饭 API
+  description: |
+    智能菜谱推荐系统后端 API
+    
+    ## 功能特性
+    - 🍳 智能菜谱匹配（基于现有食材）
+    - 🤖 AI 菜谱生成（火山引擎 Doubao 模型）
+    - 📊 库存管理和过期提醒
+    - 📈 使用统计和分析
+    
+    ## 认证
+    当前版本无需认证，生产环境建议添加 JWT 认证。
+    
+  version: 2.0.0
+  contact:
+    name: API Support
+  license:
+    name: MIT
+
+servers:
+  - url: http://localhost:3001
+    description: 本地开发环境
+  - url: https://api.woyaozoufan.com
+    description: 生产环境（待部署）
+
+tags:
+  - name: Health
+    description: 健康检查和系统状态
+  - name: Recipes
+    description: 菜谱管理和匹配
+  - name: Inventory
+    description: 食材库存管理
+  - name: Analytics
+    description: 数据统计和分析
+
+paths:
+  /health:
+    get:
+      tags:
+        - Health
+      summary: 健康检查
+      description: 检查服务器运行状态
+      operationId: getHealth
+      responses:
+        '200':
+          description: 服务正常
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResponse'
+
+  /api/recipes:
+    get:
+      tags:
+        - Recipes
+      summary: 获取菜谱列表
+      operationId: getRecipes
+      parameters:
+        - name: type
+          in: query
+          description: 菜谱类型
+          schema:
+            type: string
+            enum: [standard, outrageous]
+            default: standard
+        - name: limit
+          in: query
+          description: 返回数量限制
+          schema:
+            type: integer
+            default: 100
+        - name: difficulty
+          in: query
+          description: 难度筛选
+          schema:
+            type: string
+            enum: [简单，中等，困难]
+        - name: search
+          in: query
+          description: 菜名搜索
+          schema:
+            type: string
+      responses:
+        '200':
+          description: 成功返回菜谱列表
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RecipeListResponse'
+
+  /api/recipes/{id}:
+    get:
+      tags:
+        - Recipes
+      summary: 获取菜谱详情
+      operationId: getRecipeById
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: 菜谱 ID
+          schema:
+            type: string
+        - name: type
+          in: query
+          description: 菜谱类型
+          schema:
+            type: string
+            enum: [standard, outrageous]
+            default: standard
+      responses:
+        '200':
+          description: 成功返回菜谱详情
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RecipeDetailResponse'
+        '404':
+          description: 菜谱不存在
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+    delete:
+      tags:
+        - Recipes
+      summary: 删除菜谱
+      operationId: deleteRecipe
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: type
+          in: query
+          schema:
+            type: string
+            enum: [standard, outrageous]
+      responses:
+        '200':
+          description: 删除成功
+        '404':
+          description: 菜谱不存在
+
+  /api/recipes/{id}/cooked:
+    post:
+      tags:
+        - Recipes
+      summary: 标记菜谱已烹饪
+      operationId: markRecipeCooked
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                isOutrageous:
+                  type: boolean
+                  default: false
+      responses:
+        '200':
+          description: 标记成功
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  count:
+                    type: integer
+                    description: 累计烹饪次数
+
+  /api/match:
+    post:
+      tags:
+        - Recipes
+      summary: 智能匹配菜谱
+      description: |
+        根据用户现有食材和调料，匹配可制作的菜谱。
+        
+        匹配逻辑：
+        1. **ready**: 所有食材和调料都齐全
+        2. **simpleBuy**: 缺少 1-2 种调料
+        3. **difficultBuy**: 缺少主料或多种调料
+        
+        如果本地库匹配结果少于 5 个，会自动调用 AI 生成新菜谱。
+      operationId: matchRecipes
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - ingredients
+              properties:
+                ingredients:
+                  type: array
+                  items:
+                    type: string
+                  description: 现有食材名称列表
+                  example: ["鸡蛋", "西红柿", "米饭"]
+                seasonings:
+                  type: object
+                  additionalProperties:
+                    type: boolean
+                  description: 现有调料（键值对，true 表示有）
+                  example: {"盐": true, "油": true, "酱油": false}
+                tools:
+                  type: array
+                  items:
+                    type: string
+                  description: 可用厨具列表
+                isOutrageous:
+                  type: boolean
+                  default: false
+                  description: 是否启用离谱模式
+      responses:
+        '200':
+          description: 匹配成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MatchResponse'
+
+  /api/inventory:
+    get:
+      tags:
+        - Inventory
+      summary: 获取库存列表
+      operationId: getInventory
+      parameters:
+        - name: type
+          in: query
+          schema:
+            type: string
+            enum: [ingredient, seasoning, tool]
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: [normal, yellow, red]
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 1000
+      responses:
+        '200':
+          description: 成功返回库存列表
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/InventoryListResponse'
+
+  /api/inventory/update:
+    post:
+      tags:
+        - Inventory
+      summary: 批量更新库存
+      operationId: updateInventory
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - items
+              properties:
+                items:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/InventoryItem'
+      responses:
+        '200':
+          description: 更新成功
+
+  /api/inventory/expiring:
+    get:
+      tags:
+        - Inventory
+      summary: 获取即将过期的食材
+      operationId: getExpiringItems
+      parameters:
+        - name: days
+          in: query
+          schema:
+            type: integer
+            default: 7
+          description: 未来多少天内过期
+      responses:
+        '200':
+          description: 成功返回即将过期食材列表
+
+  /api/inventory/check-expiry:
+    post:
+      tags:
+        - Inventory
+      summary: 检查并更新过期状态
+      operationId: checkExpiry
+      responses:
+        '200':
+          description: 检查完成，返回各状态数量统计
+
+  /api/analytics:
+    get:
+      tags:
+        - Analytics
+      summary: 获取综合统计数据
+      operationId: getAnalytics
+      responses:
+        '200':
+          description: 成功返回统计数据
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/analytics/trends:
+    get:
+      tags:
+        - Analytics
+      summary: 获取趋势数据
+      description: 最近 7 天的烹饪趋势
+      operationId: getTrends
+      responses:
+        '200':
+          description: 成功返回趋势数据
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  trends:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        date:
+                          type: string
+                          format: date
+                        cooked:
+                          type: integer
+
+  /api/analytics/export:
+    get:
+      tags:
+        - Analytics
+      summary: 导出数据
+      operationId: exportData
+      parameters:
+        - name: type
+          in: query
+          schema:
+            type: string
+            enum: [recipes, inventory]
+      responses:
+        '200':
+          description: 成功返回 CSV 文件
+          content:
+            text/csv:
+              schema:
+                type: string
+
+components:
+  schemas:
+    HealthResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+        model:
+          type: string
+        env:
+          type: string
+        timestamp:
+          type: string
+          format: date-time
+
+    Recipe:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        description:
+          type: string
+        calories:
+          type: integer
+        cookTime:
+          type: string
+        servings:
+          type: string
+        difficulty:
+          type: string
+          enum: [简单，中等，困难]
+        mainIngredients:
+          type: array
+          items:
+            type: string
+        allIngredients:
+          type: array
+          items:
+            $ref: '#/components/schemas/Ingredient'
+        steps:
+          type: array
+          items:
+            $ref: '#/components/schemas/Step'
+        tips:
+          type: string
+        cookedCount:
+          type: integer
+        lastCookedDate:
+          type: string
+          format: date-time
+
+    Ingredient:
+      type: object
+      properties:
+        name:
+          type: string
+        amount:
+          type: string
+        note:
+          type: string
+          description: 生活化比喻
+        isRequired:
+          type: boolean
+
+    Step:
+      type: object
+      properties:
+        phase:
+          type: string
+        action:
+          type: string
+        heat:
+          type: string
+        time:
+          type: string
+        sensory:
+          type: string
+
+    InventoryItem:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        type:
+          type: string
+          enum: [ingredient, seasoning, tool]
+        frequency:
+          type: integer
+        status:
+          type: string
+          enum: [normal, yellow, red]
+        quantity:
+          type: number
+        unit:
+          type: string
+        expiryDate:
+          type: string
+          format: date-time
+
+    RecipeListResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+        count:
+          type: integer
+        recipes:
+          type: array
+          items:
+            $ref: '#/components/schemas/Recipe'
+
+    RecipeDetailResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+        recipe:
+          $ref: '#/components/schemas/Recipe'
+
+    MatchResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+        recipes:
+          type: object
+          properties:
+            ready:
+              type: array
+              items:
+                $ref: '#/components/schemas/Recipe'
+            simpleBuy:
+              type: array
+              items:
+                $ref: '#/components/schemas/Recipe'
+            difficultBuy:
+              type: array
+              items:
+                $ref: '#/components/schemas/Recipe'
+        stats:
+          type: object
+          properties:
+            ready:
+              type: integer
+            simpleBuy:
+              type: integer
+            difficultBuy:
+              type: integer
+            total:
+              type: integer
+
+    InventoryListResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+        count:
+          type: integer
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/InventoryItem'
+
+    AnalyticsResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+        stats:
+          type: object
+          properties:
+            recipes:
+              type: object
+            inventory:
+              type: object
+            popular:
+              type: array
+              items:
+                $ref: '#/components/schemas/Recipe'
+            cooking:
+              type: object
+
+    ErrorResponse:
+      type: object
+      properties:
+        success:
+          type: boolean
+          example: false
+        error:
+          type: object
+          properties:
+            message:
+              type: string
+            code:
+              type: string
+            path:
+              type: string
+        timestamp:
+          type: string
+          format: date-time
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: JWT 认证（生产环境使用）
+
+security:
+  - [] # 当前无需认证

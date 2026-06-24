@@ -1,0 +1,14 @@
+{
+  "name": "woyaozoufan-root",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "concurrently \"cd server && node index.js\" \"npm run dev --prefix project\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
