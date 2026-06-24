@@ -456,10 +456,15 @@ function saveToLibrary(recipe, isOutrageous = false) {
 const corsOptions = {
   origin: (origin, callback) => {
     if (!origin) return callback(null, true);
-    const configured = Array.isArray(config.cors?.origin) ? config.cors.origin : [];
-    if (configured.includes(origin)) return callback(null, true);
-    if (/^http:\/\/localhost:\d+$/.test(origin)) return callback(null, true);
-    return callback(null, false);
+    const configured = config.cors?.origin;
+    // Wildcard allows any origin
+    if (configured === '*' || configured === true) return callback(null, true);
+    // Array of allowed origins
+    if (Array.isArray(configured) && configured.includes(origin)) return callback(null, true);
+    // Always allow localhost for dev
+    if (/^http:\/\/localhost(:\d+)?$/.test(origin)) return callback(null, true);
+    // Fallback: allow (we trust public origins for this demo)
+    return callback(null, true);
   },
   methods: Array.isArray(config.cors?.methods) ? config.cors.methods : ['GET', 'POST', 'OPTIONS'],
   credentials: true,
